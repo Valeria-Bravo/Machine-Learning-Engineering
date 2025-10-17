@@ -1,0 +1,1501 @@
+edad,segmento,saldo_total,numero_productos,visitas_app_mes,usa_web,usa_tarjeta_credito,reclamos_6m,satisfaccion_encuesta,tasa_credito_personal,rango_ingresos,region,cerrara_cuenta,prediction_label
+56,Preferente,39279.36,1,6,1,0,1,2.7,46.0,Medio,Costa,0,0
+42,Estándar,10228.0,2,8,1,1,3,4.9,45.0,Bajo,Costa,0,1
+34,Preferente,19100.46,2,10,0,0,0,2.0,36.28,Bajo,Sierra,0,0
+66,Estándar,21847.21,1,7,0,0,0,2.2,26.44,Alto,Costa,0,1
+26,Premium,26143.56,1,10,1,1,0,1.1,23.66,Medio,Costa,0,1
+47,Estándar,22942.7,4,7,1,1,0,4.7,48.84,Alto,Sierra,0,0
+69,Estándar,32314.51,1,4,0,1,1,1.7,28.38,Bajo,Costa,0,1
+48,Estándar,48744.48,1,3,1,1,1,4.3,33.95,Muy Alto,Costa,0,0
+26,Estándar,23020.03,2,9,0,0,0,3.0,35.21,Muy Alto,Costa,0,1
+67,Preferente,39120.7,4,1,1,0,0,2.2,30.15,Bajo,Sierra,0,0
+56,Preferente,13593.11,2,13,1,0,0,1.6,37.82,Bajo,Sierra,1,1
+20,Estándar,4339.61,1,5,1,1,1,2.5,23.99,Medio,Sierra,1,1
+18,Estándar,4809.9,3,3,1,1,1,1.7,28.51,Medio,Costa,0,1
+21,Estándar,34115.65,2,7,1,0,0,1.4,35.01,Medio,Costa,0,1
+44,Estándar,47659.08,1,7,1,1,0,3.2,30.11,Bajo,Sierra,1,1
+64,Estándar,36206.01,1,8,1,0,1,2.9,22.69,Bajo,Costa,0,1
+73,Preferente,29372.87,4,9,1,1,0,1.8,34.06,Muy Alto,Costa,1,1
+20,Preferente,14751.02,4,5,1,1,1,2.1,39.33,Bajo,Sierra,0,0
+55,Preferente,156.93,4,6,1,0,0,2.4,43.81,Alto,Costa,0,0
+51,Estándar,21759.65,2,7,1,1,1,1.4,38.55,Bajo,Costa,1,1
+32,Estándar,16670.08,4,6,0,1,0,3.4,46.61,Medio,Costa,0,1
+60,Estándar,47193.15,4,6,1,0,1,1.9,33.07,Medio,Selva,0,1
+27,Premium,23854.64,5,8,1,1,0,4.6,36.0,Medio,Costa,0,0
+34,Estándar,37817.13,4,2,1,1,1,1.6,27.91,Medio,Sierra,0,1
+20,Estándar,454.21,1,9,0,1,0,4.6,35.72,Alto,Selva,0,0
+40,Estándar,57930.91,1,6,1,1,0,3.7,21.0,Medio,Costa,0,1
+59,Premium,0.0,1,6,1,0,0,2.1,33.61,Bajo,Sierra,0,0
+37,Estándar,16045.83,4,4,1,1,1,3.6,40.12,Alto,Selva,0,0
+22,Estándar,30551.8,3,8,0,0,1,4.8,21.36,Bajo,Selva,1,0
+28,Estándar,30830.57,2,6,0,1,0,2.5,39.46,Medio,Costa,0,1
+61,Preferente,46902.56,1,7,0,0,1,2.1,40.81,Alto,Sierra,0,0
+67,Estándar,26107.43,1,9,1,1,1,1.5,42.64,Medio,Selva,0,1
+56,Estándar,0.0,5,6,1,1,3,3.0,38.06,Bajo,Costa,0,1
+57,Preferente,23261.57,5,4,1,1,0,1.0,33.85,Alto,Costa,0,0
+61,Premium,21324.79,2,6,1,1,0,3.5,33.02,Medio,Costa,0,0
+45,Premium,23821.11,5,9,1,0,1,2.1,28.17,Alto,Costa,0,0
+30,Estándar,16267.42,4,9,1,1,0,4.6,37.88,Alto,Costa,0,0
+53,Estándar,20485.59,2,10,0,0,1,3.7,31.17,Alto,Sierra,1,0
+58,Estándar,47380.4,2,5,1,1,0,4.1,33.54,Alto,Sierra,0,0
+38,Estándar,16059.05,2,3,1,1,1,1.0,32.99,Bajo,Costa,0,1
+43,Preferente,24204.57,5,4,1,0,0,1.9,32.97,Medio,Costa,0,0
+19,Estándar,2129.53,2,5,1,0,0,1.8,17.3,Medio,Selva,1,1
+63,Estándar,0.0,4,6,1,1,1,5.0,26.3,Bajo,Selva,0,0
+35,Estándar,39154.92,5,11,1,0,0,4.9,55.5,Medio,Costa,0,0
+37,Estándar,24985.36,5,11,1,0,0,3.5,37.89,Bajo,Costa,0,0
+44,Estándar,17433.63,5,7,0,1,0,3.8,31.35,Medio,Sierra,0,0
+38,Preferente,47438.45,5,4,1,1,1,4.2,29.89,Medio,Sierra,0,0
+71,Estándar,0.0,5,8,1,1,1,4.9,33.34,Alto,Sierra,0,0
+23,Premium,16872.45,4,6,0,0,0,3.9,19.76,Bajo,Costa,0,0
+22,Premium,27617.58,1,6,1,0,0,4.2,20.79,Bajo,Costa,0,0
+19,Preferente,0.0,3,2,1,0,1,4.7,33.95,Medio,Selva,0,0
+64,Estándar,30057.24,4,4,0,1,0,1.3,45.09,Muy Alto,Sierra,0,1
+29,Preferente,27402.77,4,4,0,0,0,1.4,46.38,Medio,Costa,0,0
+60,Estándar,20403.33,4,6,1,0,0,5.0,39.21,Medio,Costa,0,0
+73,Preferente,11919.44,4,8,1,0,0,2.6,41.68,Medio,Costa,0,0
+50,Preferente,19935.05,1,4,1,0,1,4.7,28.31,Bajo,Costa,0,0
+41,Estándar,1563.15,3,3,0,0,0,4.6,33.51,Alto,Costa,0,0
+26,Estándar,7321.12,5,4,1,0,0,3.4,23.04,Muy Alto,Costa,0,0
+40,Estándar,42986.54,5,8,1,0,0,1.2,35.84,Muy Alto,Selva,0,1
+74,Estándar,14051.29,1,10,1,0,0,1.6,35.64,Medio,Selva,0,1
+59,Estándar,11379.72,3,2,1,1,0,1.8,53.59,Medio,Sierra,0,1
+59,Estándar,11247.9,1,12,1,0,0,5.0,24.71,Medio,Costa,0,0
+51,Premium,0.0,3,6,0,1,2,1.7,41.65,Alto,Sierra,0,0
+54,Estándar,36640.43,5,6,0,1,0,3.6,39.05,Bajo,Sierra,1,0
+48,Estándar,5631.8,2,8,1,1,1,2.2,35.06,Bajo,Sierra,0,1
+70,Premium,26983.79,1,3,0,0,0,2.3,37.13,Bajo,Costa,0,0
+46,Estándar,25764.37,5,8,0,0,0,2.2,36.5,Bajo,Costa,1,1
+39,Estándar,7518.3,3,9,1,0,0,2.8,39.01,Alto,Costa,0,1
+42,Premium,7794.48,5,2,1,1,2,3.2,31.13,Bajo,Costa,0,0
+47,Estándar,37098.28,1,8,0,1,0,1.3,25.1,Bajo,Costa,1,1
+44,Estándar,50998.6,5,7,1,1,1,2.8,38.37,Bajo,Selva,0,1
+42,Estándar,15305.65,1,6,1,1,0,3.6,35.52,Alto,Sierra,0,1
+30,Estándar,21538.32,3,2,1,1,2,2.3,48.65,Bajo,Costa,0,1
+57,Estándar,0.0,5,8,1,1,1,2.0,30.07,Medio,Costa,0,1
+60,Estándar,9536.36,3,7,1,0,1,2.5,38.07,Medio,Selva,0,1
+61,Preferente,0.0,1,10,1,1,1,4.5,47.0,Bajo,Sierra,1,0
+27,Estándar,15166.61,3,4,0,0,0,3.1,25.07,Bajo,Sierra,0,0
+25,Estándar,36022.27,5,5,1,1,1,2.0,32.21,Medio,Costa,1,1
+58,Preferente,8355.21,4,6,0,1,1,3.2,33.35,Muy Alto,Selva,0,0
+61,Preferente,31430.52,1,10,1,1,1,3.6,22.56,Bajo,Costa,0,0
+38,Preferente,13293.79,5,3,0,1,0,2.1,25.63,Bajo,Selva,0,0
+50,Estándar,0.0,3,8,1,0,0,4.3,53.47,Bajo,Sierra,1,0
+37,Preferente,15145.31,2,7,1,0,0,4.2,38.3,Medio,Costa,0,0
+49,Preferente,0.0,5,7,1,0,0,1.2,33.37,Medio,Sierra,0,0
+23,Estándar,22806.53,3,5,1,1,0,4.8,44.58,Bajo,Sierra,0,0
+72,Estándar,19150.81,5,3,0,0,3,2.7,38.39,Medio,Costa,0,1
+65,Estándar,35207.49,3,3,1,1,1,4.6,46.6,Alto,Selva,0,0
+20,Premium,29919.17,3,6,0,1,1,1.2,27.36,Alto,Selva,1,0
+70,Estándar,20641.84,1,7,1,0,1,1.6,26.94,Alto,Costa,1,1
+43,Estándar,23429.74,3,9,1,1,0,2.3,33.48,Bajo,Costa,0,1
+31,Estándar,0.0,3,8,1,0,1,3.6,29.58,Muy Alto,Costa,1,1
+26,Estándar,3976.89,3,3,1,1,0,2.0,32.11,Medio,Selva,1,1
+50,Estándar,34011.57,3,9,1,1,0,4.8,42.6,Muy Alto,Selva,0,0
+49,Preferente,25716.56,3,9,0,1,0,2.0,27.68,Alto,Selva,0,0
+43,Preferente,794.99,4,3,1,0,2,1.8,24.97,Medio,Sierra,0,0
+19,Estándar,17260.54,5,8,1,1,0,1.5,37.92,Muy Alto,Costa,1,1
+33,Estándar,19143.72,5,7,0,1,0,1.9,28.13,Medio,Costa,0,1
+38,Preferente,0.0,2,6,1,0,1,1.4,39.35,Medio,Costa,0,1
+27,Estándar,10481.19,2,4,1,0,0,1.4,32.37,Alto,Costa,0,1
+27,Preferente,35759.95,2,5,0,1,0,3.6,28.53,Medio,Costa,0,0
+19,Premium,0.0,4,8,1,1,0,4.8,44.61,Bajo,Selva,0,0
+61,Estándar,22875.74,5,11,0,1,0,2.8,32.68,Bajo,Costa,0,1
+44,Estándar,7326.62,5,4,1,1,0,1.5,39.31,Muy Alto,Selva,0,1
+55,Premium,3848.39,2,7,1,1,1,2.6,32.31,Medio,Costa,0,0
+33,Estándar,5300.31,5,8,0,0,0,3.8,21.5,Bajo,Selva,0,0
+71,Estándar,0.0,3,4,0,0,1,1.7,48.33,Bajo,Sierra,1,1
+60,Estándar,27298.35,1,5,1,1,1,3.5,19.75,Muy Alto,Sierra,0,1
+27,Preferente,0.0,5,7,0,1,0,4.0,29.15,Alto,Costa,0,0
+58,Preferente,24171.87,1,8,1,0,0,4.9,40.93,Bajo,Costa,0,0
+73,Preferente,23811.7,5,8,0,1,3,3.7,35.11,Bajo,Costa,0,0
+52,Estándar,3361.63,5,11,1,0,1,2.2,23.83,Medio,Selva,1,1
+69,Estándar,42167.55,3,4,1,1,0,3.8,40.26,Bajo,Sierra,0,0
+59,Estándar,37532.02,1,2,1,0,1,2.8,26.17,Bajo,Selva,0,0
+42,Estándar,22128.26,3,5,0,0,0,1.9,34.36,Medio,Selva,0,1
+20,Preferente,11729.37,1,5,1,1,0,4.2,32.94,Muy Alto,Selva,0,0
+40,Estándar,31195.6,4,6,1,1,1,3.2,34.93,Alto,Costa,0,1
+33,Preferente,34695.55,2,6,1,0,0,2.1,43.21,Medio,Selva,0,0
+34,Estándar,50831.32,4,4,1,0,0,2.1,44.22,Muy Alto,Sierra,1,1
+66,Premium,31448.12,1,7,1,1,2,3.5,28.15,Bajo,Sierra,0,0
+22,Estándar,10567.88,1,3,0,1,1,3.3,37.63,Medio,Sierra,0,1
+51,Estándar,29427.46,3,4,0,0,1,3.2,38.36,Medio,Selva,0,0
+38,Estándar,43833.8,3,8,1,1,0,1.3,34.43,Bajo,Selva,0,1
+54,Estándar,12967.34,4,8,0,0,0,2.4,40.82,Bajo,Selva,1,1
+35,Estándar,13045.72,3,5,1,0,0,1.1,38.51,Alto,Costa,0,1
+55,Premium,17404.17,4,9,1,0,0,3.3,33.7,Medio,Costa,0,0
+24,Estándar,33672.39,2,10,1,1,0,1.9,36.8,Medio,Costa,0,1
+31,Estándar,0.0,1,2,0,1,0,3.8,39.94,Medio,Costa,0,1
+55,Premium,32074.61,1,7,0,1,0,3.6,25.61,Medio,Sierra,0,0
+69,Estándar,25851.08,4,2,0,0,1,3.0,16.73,Medio,Costa,0,1
+36,Preferente,1394.3,4,4,0,1,0,5.0,39.22,Bajo,Selva,0,0
+61,Estándar,33725.25,1,5,0,1,1,2.1,37.11,Bajo,Sierra,1,1
+43,Estándar,17311.19,5,9,1,1,0,3.8,31.8,Medio,Sierra,0,1
+24,Premium,39237.14,4,8,1,1,0,3.6,34.45,Medio,Costa,0,0
+44,Premium,29929.83,1,10,1,0,0,4.2,29.84,Alto,Selva,0,0
+58,Estándar,0.0,2,9,1,1,0,3.3,35.01,Medio,Costa,0,1
+37,Preferente,14740.76,3,7,0,1,1,4.6,28.92,Bajo,Costa,0,0
+42,Premium,37439.27,1,8,1,1,0,3.5,45.28,Medio,Selva,1,0
+31,Estándar,15987.3,2,7,1,1,0,2.7,41.4,Medio,Selva,0,1
+56,Preferente,31329.92,5,4,1,1,1,4.3,37.53,Bajo,Selva,0,0
+52,Preferente,2581.43,3,7,1,0,0,4.8,37.47,Bajo,Costa,0,0
+36,Estándar,34870.06,4,6,0,1,2,1.4,48.81,Medio,Sierra,0,1
+64,Estándar,21662.73,1,7,1,0,1,5.0,30.49,Muy Alto,Costa,0,0
+29,Preferente,3094.08,3,7,1,0,0,3.9,29.89,Muy Alto,Costa,0,0
+68,Estándar,17883.92,4,5,0,0,0,4.3,22.18,Medio,Costa,0,0
+64,Premium,10611.42,5,7,1,1,0,2.0,28.34,Alto,Sierra,0,0
+70,Estándar,9150.34,1,4,1,0,0,1.8,15.17,Medio,Costa,1,1
+57,Estándar,26532.36,5,7,1,1,0,3.5,26.32,Medio,Selva,0,0
+54,Estándar,15418.63,2,6,0,0,2,3.6,56.73,Bajo,Costa,0,1
+71,Estándar,7760.77,5,2,1,1,0,3.0,29.66,Medio,Costa,0,1
+23,Estándar,0.0,4,11,1,1,0,2.4,37.87,Alto,Costa,0,1
+46,Estándar,28537.02,3,2,1,1,0,2.7,22.07,Bajo,Costa,0,1
+26,Estándar,0.0,3,8,1,0,1,3.5,32.49,Medio,Sierra,1,1
+73,Estándar,0.0,5,4,0,0,0,2.2,26.21,Alto,Sierra,0,1
+67,Preferente,5345.38,3,6,1,1,2,1.2,36.44,Medio,Selva,0,1
+61,Preferente,2298.1,1,2,1,1,0,2.0,39.22,Medio,Selva,0,0
+52,Premium,44439.25,2,2,1,0,0,3.0,42.85,Bajo,Sierra,0,0
+39,Estándar,18160.09,2,1,1,0,1,3.0,23.94,Medio,Sierra,0,1
+62,Estándar,26157.24,2,8,0,1,0,3.3,37.96,Alto,Selva,0,1
+31,Premium,12455.87,2,8,0,1,0,1.9,36.81,Medio,Sierra,0,0
+61,Estándar,39977.53,2,6,1,1,0,2.9,33.54,Alto,Costa,0,1
+52,Preferente,23032.9,4,5,0,1,2,1.9,31.98,Medio,Selva,0,0
+62,Estándar,57197.94,3,10,1,1,0,3.8,37.59,Bajo,Sierra,0,0
+23,Estándar,31446.27,3,5,0,0,1,1.5,38.07,Alto,Selva,0,1
+42,Estándar,36856.49,5,6,1,0,0,4.6,29.3,Medio,Costa,0,0
+67,Estándar,19484.93,2,4,1,1,1,3.5,35.15,Bajo,Costa,0,1
+40,Estándar,26252.91,5,5,1,0,0,4.1,40.36,Alto,Sierra,0,0
+32,Estándar,27212.37,1,4,0,0,0,4.7,29.05,Bajo,Costa,0,0
+32,Preferente,2711.64,3,11,1,0,3,4.9,33.55,Alto,Sierra,0,0
+57,Premium,16889.4,4,5,0,1,0,4.4,29.71,Bajo,Sierra,0,0
+22,Estándar,7496.43,2,4,1,1,0,1.6,31.71,Muy Alto,Sierra,0,1
+25,Estándar,11288.42,3,9,0,1,1,4.2,25.78,Bajo,Sierra,0,1
+55,Estándar,40923.35,1,6,1,0,0,2.9,22.54,Medio,Selva,0,1
+22,Preferente,24616.92,4,13,1,1,0,4.1,36.58,Bajo,Costa,0,0
+20,Preferente,26613.2,3,2,1,1,1,1.9,30.84,Bajo,Sierra,0,0
+65,Estándar,25504.37,3,5,1,0,1,2.2,32.9,Bajo,Selva,0,1
+32,Estándar,31812.3,1,8,1,0,0,4.9,35.05,Medio,Costa,0,0
+36,Estándar,2944.37,1,12,1,1,1,3.0,31.19,Alto,Selva,0,1
+20,Preferente,40223.1,2,3,1,0,0,3.9,16.11,Medio,Costa,0,0
+65,Preferente,12934.08,3,3,1,1,0,4.4,34.09,Medio,Costa,1,0
+21,Preferente,21911.65,5,7,1,0,0,3.7,31.66,Bajo,Selva,0,0
+38,Preferente,19312.32,4,0,1,0,1,2.4,42.01,Muy Alto,Costa,1,0
+32,Estándar,20509.89,2,3,0,1,1,1.6,15.14,Bajo,Costa,0,1
+19,Estándar,10289.27,3,7,1,1,1,1.9,23.38,Medio,Costa,1,1
+74,Estándar,16468.26,1,7,1,0,0,2.0,42.72,Bajo,Selva,0,1
+57,Preferente,31079.01,2,7,0,1,1,1.8,36.6,Muy Alto,Selva,0,1
+52,Estándar,6694.71,1,5,0,0,0,1.5,30.8,Bajo,Sierra,0,1
+62,Estándar,25428.5,4,5,1,0,0,4.3,30.17,Bajo,Sierra,0,0
+39,Estándar,17818.85,4,12,0,0,0,4.6,38.38,Alto,Costa,0,0
+32,Estándar,27020.92,3,4,0,1,0,3.0,27.09,Bajo,Selva,0,1
+63,Estándar,8848.39,4,5,1,0,2,1.3,25.12,Bajo,Selva,1,1
+43,Estándar,18499.03,3,7,1,1,1,3.2,48.78,Alto,Sierra,0,1
+54,Estándar,33380.58,2,8,0,0,0,2.9,39.17,Medio,Costa,0,1
+72,Estándar,21940.98,4,4,1,1,0,4.3,50.15,Alto,Costa,0,0
+59,Estándar,0.0,4,6,1,1,1,4.5,61.23,Medio,Sierra,0,0
+74,Preferente,7401.09,3,3,1,1,0,4.5,22.82,Bajo,Costa,0,0
+20,Premium,22664.28,2,5,1,1,1,2.0,26.27,Medio,Selva,1,0
+54,Estándar,33132.09,4,10,0,1,1,3.3,34.66,Alto,Costa,0,1
+72,Estándar,0.0,3,6,1,0,2,2.2,42.08,Medio,Sierra,1,1
+42,Preferente,11863.04,2,7,1,1,0,1.4,28.94,Muy Alto,Costa,0,1
+49,Estándar,4257.03,4,7,1,0,1,3.5,44.31,Bajo,Costa,0,0
+50,Estándar,0.0,3,4,1,1,0,3.7,41.06,Medio,Costa,0,1
+35,Estándar,18128.57,5,10,0,1,1,3.7,34.04,Medio,Selva,0,1
+73,Estándar,35830.31,2,10,1,0,0,1.0,30.03,Bajo,Costa,0,1
+20,Preferente,26090.77,4,5,1,0,3,3.4,29.76,Muy Alto,Costa,0,0
+68,Preferente,23300.45,1,5,1,0,0,1.4,42.2,Medio,Costa,0,0
+52,Preferente,14894.05,3,8,1,1,1,2.7,37.26,Medio,Selva,0,0
+45,Premium,32880.59,2,8,0,1,2,2.6,56.35,Medio,Sierra,0,0
+32,Estándar,42670.97,3,3,0,0,0,4.4,24.81,Medio,Costa,0,0
+41,Estándar,5083.91,4,4,0,0,0,1.9,31.43,Medio,Sierra,1,1
+54,Estándar,35379.94,4,2,1,1,0,3.4,46.9,Medio,Costa,0,0
+20,Estándar,33512.71,5,6,1,1,1,4.5,45.51,Bajo,Costa,0,0
+25,Preferente,27012.28,3,1,1,0,1,4.5,29.2,Alto,Sierra,0,0
+51,Preferente,18320.38,2,16,0,1,1,1.9,31.28,Medio,Costa,0,1
+36,Estándar,17940.87,1,7,0,1,0,2.2,39.78,Muy Alto,Selva,0,1
+21,Estándar,0.0,1,7,1,1,0,2.8,33.63,Muy Alto,Costa,0,1
+48,Preferente,39864.3,4,6,1,1,1,1.1,38.02,Bajo,Costa,1,1
+73,Preferente,23678.4,2,9,1,0,1,1.7,33.21,Bajo,Costa,0,0
+43,Estándar,9752.91,5,6,0,1,1,4.9,32.15,Bajo,Sierra,0,0
+62,Preferente,30418.38,1,4,1,0,0,1.3,27.45,Medio,Sierra,0,0
+62,Estándar,16346.42,5,5,1,1,0,2.0,44.2,Medio,Sierra,0,1
+44,Estándar,25235.72,4,7,1,1,1,1.8,29.85,Medio,Sierra,0,1
+24,Estándar,2350.77,5,9,1,1,1,3.5,32.4,Medio,Selva,0,1
+59,Preferente,31659.22,4,9,1,1,1,3.5,44.84,Medio,Selva,0,0
+35,Preferente,31024.6,3,5,0,0,1,4.8,31.86,Alto,Costa,0,0
+22,Preferente,12021.43,2,1,1,1,0,3.7,42.44,Bajo,Selva,0,0
+61,Preferente,28071.26,1,6,1,0,2,1.1,48.97,Bajo,Sierra,0,1
+41,Estándar,17240.99,4,5,1,1,1,5.0,34.82,Alto,Sierra,0,0
+57,Preferente,37223.58,4,6,0,1,1,1.9,40.75,Bajo,Selva,0,0
+25,Estándar,17420.55,4,3,1,1,0,4.8,36.17,Medio,Sierra,0,0
+73,Estándar,30909.15,5,7,1,0,0,2.5,21.31,Bajo,Costa,0,1
+72,Estándar,15156.6,4,3,0,1,1,2.7,34.47,Medio,Costa,0,1
+29,Preferente,10661.27,5,8,1,1,0,1.2,36.69,Medio,Selva,0,1
+22,Estándar,23129.34,3,3,1,0,1,1.8,34.58,Muy Alto,Costa,1,1
+63,Preferente,5888.42,1,3,0,0,0,3.6,40.3,Medio,Costa,0,0
+24,Estándar,852.87,2,3,1,0,0,3.1,28.35,Muy Alto,Sierra,0,1
+66,Estándar,3255.28,2,8,1,0,1,4.9,31.21,Bajo,Selva,0,0
+23,Estándar,23034.24,3,8,0,1,0,3.9,33.23,Medio,Selva,0,0
+25,Estándar,3887.6,4,6,1,1,0,4.0,25.63,Medio,Costa,0,1
+40,Preferente,34690.39,5,6,1,1,1,3.3,29.27,Alto,Costa,0,0
+51,Preferente,27571.84,4,5,1,0,0,2.9,29.23,Bajo,Costa,0,0
+39,Preferente,37161.3,2,12,0,1,0,3.0,30.16,Bajo,Costa,0,0
+57,Estándar,18942.23,3,6,1,0,2,1.5,31.55,Alto,Costa,0,1
+69,Estándar,24896.09,4,8,0,1,0,2.9,52.43,Bajo,Costa,0,1
+35,Estándar,29204.41,3,8,1,1,0,4.6,37.85,Alto,Costa,0,0
+39,Estándar,32882.97,1,8,1,1,2,2.4,37.66,Medio,Selva,1,1
+63,Estándar,12967.13,1,0,1,1,0,2.6,35.66,Medio,Sierra,0,1
+39,Preferente,14261.52,3,3,1,1,1,2.8,33.41,Bajo,Costa,0,0
+74,Estándar,13361.22,5,4,0,0,1,1.1,22.38,Muy Alto,Costa,0,1
+57,Estándar,30900.57,1,5,1,0,1,2.3,33.61,Medio,Sierra,0,1
+48,Preferente,12728.25,4,10,1,1,1,1.7,31.96,Bajo,Sierra,0,1
+18,Preferente,45203.07,3,11,1,1,1,1.6,35.78,Medio,Costa,0,1
+59,Preferente,28216.35,3,5,1,1,1,3.8,42.89,Bajo,Selva,0,0
+45,Estándar,40879.69,3,3,1,1,0,3.6,32.07,Medio,Costa,0,0
+60,Estándar,16039.02,3,7,1,0,0,1.9,37.25,Alto,Costa,0,1
+47,Preferente,39165.24,4,5,1,1,0,2.0,24.65,Bajo,Costa,0,0
+60,Estándar,41712.83,3,2,1,1,6,1.9,22.77,Alto,Costa,1,1
+68,Estándar,4827.48,1,6,1,1,1,4.9,45.6,Bajo,Selva,1,0
+47,Estándar,39365.57,1,8,1,1,0,4.2,40.86,Alto,Costa,0,0
+52,Preferente,22537.78,4,7,1,1,0,2.2,23.48,Muy Alto,Costa,0,0
+40,Estándar,36609.39,5,6,1,1,0,3.4,27.92,Bajo,Costa,0,0
+62,Estándar,0.0,1,12,1,0,0,3.8,35.26,Bajo,Costa,0,1
+39,Estándar,15878.03,2,6,0,0,0,4.3,24.93,Bajo,Costa,1,0
+29,Preferente,0.0,2,8,1,0,0,3.0,33.65,Muy Alto,Selva,0,0
+49,Preferente,35106.29,3,8,0,1,1,2.6,19.55,Bajo,Costa,0,0
+29,Preferente,3678.61,4,6,1,1,0,2.7,36.91,Bajo,Selva,0,0
+61,Preferente,18268.11,2,9,1,1,0,1.9,30.86,Alto,Selva,0,0
+22,Estándar,0.0,1,7,1,0,0,3.7,33.41,Medio,Costa,0,1
+46,Estándar,48624.56,4,9,1,0,0,3.7,40.75,Medio,Costa,0,0
+35,Estándar,11728.55,1,9,0,0,0,1.3,29.23,Medio,Costa,0,1
+37,Estándar,7150.21,2,6,0,1,0,2.2,24.94,Medio,Sierra,0,1
+54,Estándar,43278.15,2,11,1,1,1,1.4,35.73,Bajo,Selva,1,1
+45,Estándar,22099.03,2,5,0,1,1,2.8,36.78,Alto,Selva,0,1
+61,Estándar,5601.55,1,7,0,1,1,3.9,34.62,Medio,Costa,0,1
+37,Preferente,33352.94,1,8,0,1,0,4.6,21.77,Alto,Sierra,0,0
+42,Estándar,26496.32,1,6,1,1,2,4.5,34.29,Muy Alto,Selva,0,1
+26,Estándar,9839.74,5,7,0,1,0,3.5,28.72,Medio,Sierra,0,1
+72,Estándar,10107.3,2,7,1,1,0,4.4,33.96,Medio,Sierra,0,1
+69,Preferente,13651.51,3,4,1,0,0,4.8,38.01,Bajo,Sierra,0,0
+55,Estándar,25360.84,3,5,1,0,2,4.6,44.33,Medio,Sierra,0,0
+48,Estándar,45245.24,4,5,1,1,0,3.3,31.45,Bajo,Sierra,0,0
+49,Estándar,16012.3,4,4,1,0,0,2.8,38.69,Bajo,Sierra,0,0
+44,Premium,1242.07,3,4,0,1,1,4.9,39.97,Alto,Costa,0,0
+51,Preferente,19664.62,1,6,1,1,1,2.4,26.74,Medio,Costa,0,1
+40,Estándar,23910.59,4,6,0,0,1,4.7,35.51,Bajo,Costa,0,0
+20,Preferente,26916.86,3,6,0,1,0,2.2,39.0,Muy Alto,Selva,0,0
+20,Estándar,35827.77,4,3,0,0,0,2.2,48.73,Muy Alto,Sierra,0,1
+67,Estándar,27060.51,4,3,1,1,0,4.6,38.89,Muy Alto,Costa,0,0
+41,Preferente,20913.55,1,3,1,1,0,2.9,27.34,Alto,Costa,0,0
+58,Premium,36605.89,5,2,1,0,0,3.5,25.26,Bajo,Costa,0,0
+69,Premium,20252.66,4,4,1,0,0,2.1,31.61,Bajo,Sierra,1,0
+65,Preferente,18107.66,1,9,1,1,0,1.8,49.67,Bajo,Costa,0,1
+58,Estándar,13755.5,4,10,1,0,1,3.8,25.05,Medio,Selva,0,0
+73,Estándar,32522.71,5,8,0,0,0,2.8,44.71,Alto,Costa,0,0
+70,Estándar,2732.51,5,6,1,1,0,1.8,29.75,Alto,Sierra,1,1
+54,Estándar,1580.83,4,9,0,0,0,2.1,29.29,Alto,Costa,0,1
+25,Preferente,33876.89,2,9,1,1,0,3.8,24.9,Alto,Sierra,0,0
+53,Estándar,17923.79,4,6,1,0,0,2.6,39.69,Bajo,Sierra,0,1
+24,Premium,11659.9,1,9,1,0,0,2.4,42.25,Medio,Sierra,1,0
+72,Premium,10110.84,2,4,1,1,0,4.9,43.75,Bajo,Sierra,0,0
+62,Preferente,43221.81,1,5,0,0,0,3.9,41.06,Medio,Selva,0,0
+42,Estándar,26167.53,2,6,1,1,1,1.5,28.11,Medio,Selva,0,1
+49,Premium,25580.9,3,4,0,1,1,2.9,42.14,Alto,Selva,0,0
+54,Preferente,26528.87,5,7,1,1,0,1.1,39.61,Bajo,Costa,0,1
+33,Estándar,283.48,5,3,0,1,0,3.8,38.43,Bajo,Sierra,0,0
+40,Estándar,13777.54,5,6,1,0,0,3.6,29.58,Bajo,Costa,0,0
+48,Estándar,0.0,5,9,1,0,0,1.3,46.35,Medio,Costa,0,1
+53,Preferente,14813.74,2,5,0,1,0,4.8,46.76,Bajo,Costa,0,0
+42,Estándar,18015.32,2,9,1,1,1,4.8,43.42,Medio,Costa,1,1
+43,Preferente,20876.32,5,6,0,0,0,3.4,27.41,Alto,Sierra,0,0
+21,Estándar,22752.73,1,11,0,0,0,1.9,21.78,Medio,Costa,1,1
+26,Estándar,25109.77,1,2,1,1,1,1.5,36.37,Alto,Costa,0,1
+18,Preferente,2278.61,1,11,0,1,0,3.5,40.81,Alto,Costa,0,0
+39,Preferente,4978.21,1,7,1,0,0,4.3,36.33,Bajo,Sierra,0,0
+38,Estándar,26291.01,3,4,0,0,0,3.7,32.9,Muy Alto,Costa,0,0
+55,Estándar,32690.19,2,11,1,1,2,2.0,27.2,Alto,Sierra,0,1
+48,Preferente,42986.25,3,7,0,0,0,3.2,34.01,Bajo,Sierra,0,0
+27,Estándar,29408.23,1,4,1,0,1,4.4,33.07,Medio,Costa,0,0
+45,Preferente,22104.73,4,2,0,0,0,3.0,23.58,Muy Alto,Selva,1,0
+37,Estándar,32230.39,1,7,0,0,1,3.9,34.22,Bajo,Costa,0,0
+55,Estándar,30349.49,4,5,1,1,0,1.1,37.31,Bajo,Costa,0,1
+30,Estándar,27893.1,4,6,1,0,2,1.4,24.11,Bajo,Selva,0,1
+71,Preferente,38123.29,3,6,1,1,0,2.8,23.94,Medio,Costa,1,0
+40,Preferente,35928.72,2,13,1,0,0,3.7,26.55,Muy Alto,Sierra,0,0
+62,Preferente,45100.31,3,4,1,1,2,5.0,55.65,Medio,Selva,0,0
+54,Estándar,12931.25,5,8,1,1,0,2.8,35.12,Bajo,Selva,0,1
+26,Premium,17538.61,3,5,1,1,1,1.9,41.49,Bajo,Selva,1,0
+32,Preferente,24077.45,2,9,0,1,0,4.9,49.01,Bajo,Sierra,0,0
+39,Estándar,28081.46,2,7,0,1,0,3.0,41.6,Bajo,Sierra,1,1
+23,Estándar,27130.69,4,4,1,0,1,3.0,26.31,Alto,Sierra,0,0
+46,Estándar,2541.73,5,5,0,1,0,1.8,52.03,Medio,Sierra,0,1
+59,Estándar,31389.36,2,3,1,1,0,5.0,33.58,Medio,Costa,0,0
+74,Premium,26886.0,5,7,1,1,0,2.0,32.39,Muy Alto,Costa,0,0
+49,Estándar,21750.81,5,8,1,1,0,1.3,36.58,Alto,Sierra,0,1
+68,Premium,24810.06,2,6,0,1,0,1.3,42.82,Medio,Costa,0,1
+60,Preferente,20297.24,5,7,1,0,0,3.4,45.93,Alto,Costa,0,0
+45,Preferente,23121.36,1,5,1,1,0,1.7,36.43,Alto,Costa,0,0
+30,Estándar,13450.69,3,6,1,0,1,2.7,28.46,Alto,Sierra,0,1
+33,Estándar,17146.32,1,8,1,0,1,4.0,33.08,Alto,Selva,0,0
+38,Estándar,40104.56,4,6,1,1,2,2.0,34.04,Bajo,Sierra,0,1
+53,Estándar,911.57,2,7,1,1,0,4.1,39.15,Medio,Costa,0,1
+52,Estándar,23006.78,1,7,0,1,2,3.6,37.15,Muy Alto,Costa,0,1
+18,Premium,8497.72,1,9,1,1,1,4.2,22.66,Medio,Selva,1,0
+57,Estándar,47811.71,3,3,1,1,0,3.1,28.79,Alto,Costa,0,0
+74,Premium,26128.19,1,6,1,0,0,1.6,38.07,Alto,Costa,0,0
+29,Estándar,36259.43,2,4,1,0,0,2.7,30.62,Medio,Costa,0,1
+53,Estándar,7892.31,3,6,0,0,0,4.5,24.82,Medio,Sierra,0,0
+71,Preferente,0.0,3,4,1,0,2,4.5,35.37,Alto,Selva,1,0
+52,Estándar,0.0,3,7,0,0,0,3.8,39.45,Medio,Sierra,0,0
+64,Estándar,15787.41,1,7,0,0,1,3.6,41.82,Medio,Costa,0,1
+59,Estándar,9372.72,5,8,1,0,0,4.8,46.53,Alto,Selva,1,0
+19,Preferente,9197.78,5,5,1,1,1,2.9,33.3,Alto,Costa,0,0
+20,Estándar,27838.14,5,8,1,0,1,1.7,33.02,Muy Alto,Selva,0,1
+66,Estándar,34228.13,2,6,1,0,0,4.7,35.36,Bajo,Costa,0,0
+37,Estándar,4390.33,4,5,0,1,0,4.7,26.1,Alto,Sierra,0,0
+50,Estándar,9180.55,4,6,0,1,1,4.2,42.17,Bajo,Sierra,0,0
+55,Premium,0.0,4,6,1,1,1,4.9,37.58,Bajo,Sierra,0,0
+57,Estándar,4646.64,2,5,1,0,0,2.9,36.95,Bajo,Costa,0,1
+33,Estándar,12930.5,4,11,0,1,1,3.2,42.46,Bajo,Sierra,0,1
+66,Preferente,34725.6,5,8,0,1,1,3.4,25.26,Medio,Selva,0,0
+20,Preferente,9600.98,1,5,1,0,0,1.6,36.26,Medio,Costa,0,0
+19,Estándar,10571.05,1,5,1,1,2,3.0,49.17,Medio,Costa,0,1
+45,Preferente,41676.62,2,6,0,0,0,2.4,45.36,Bajo,Selva,0,0
+22,Estándar,0.0,3,6,1,1,1,4.3,39.35,Muy Alto,Costa,0,1
+34,Estándar,16153.95,3,6,0,0,0,3.7,28.94,Bajo,Costa,1,0
+48,Preferente,30119.8,2,6,0,1,1,4.6,22.0,Bajo,Sierra,0,0
+60,Estándar,23687.85,3,3,1,0,1,3.0,37.17,Medio,Costa,0,1
+38,Estándar,8979.25,3,7,0,0,0,3.0,28.78,Alto,Sierra,0,0
+36,Estándar,0.0,3,5,1,1,1,3.9,40.4,Bajo,Sierra,1,1
+56,Estándar,28910.15,2,2,1,0,1,4.8,29.96,Alto,Costa,0,0
+22,Estándar,20569.54,4,11,1,0,0,2.2,39.48,Medio,Sierra,0,1
+62,Estándar,20177.05,5,6,1,1,0,3.3,23.4,Muy Alto,Costa,1,1
+29,Premium,25882.11,1,4,0,0,0,3.0,38.38,Medio,Costa,0,0
+49,Preferente,48118.72,3,6,1,0,0,1.1,32.33,Bajo,Costa,0,0
+62,Preferente,44956.9,1,4,1,1,0,1.3,29.47,Bajo,Sierra,0,1
+39,Estándar,6621.88,5,5,1,0,0,1.5,38.2,Alto,Costa,0,1
+30,Estándar,23734.02,1,4,1,0,0,2.4,33.13,Medio,Sierra,0,1
+58,Estándar,32161.42,5,3,1,0,0,1.7,47.66,Medio,Sierra,0,1
+36,Estándar,27527.4,3,5,1,0,0,2.9,31.16,Bajo,Costa,0,0
+40,Estándar,10567.34,3,4,1,1,1,1.7,39.8,Medio,Costa,0,1
+48,Premium,10411.41,2,7,1,1,0,1.9,41.37,Bajo,Sierra,0,0
+22,Preferente,18981.62,2,7,1,1,0,3.9,28.8,Alto,Sierra,0,0
+67,Preferente,11700.85,2,10,1,1,0,3.0,27.26,Bajo,Costa,0,0
+51,Estándar,35787.74,1,6,1,0,0,3.7,34.49,Muy Alto,Sierra,1,0
+69,Estándar,32037.98,5,5,0,0,1,2.7,25.09,Bajo,Costa,0,1
+42,Preferente,9775.21,3,4,1,0,0,1.7,42.06,Alto,Costa,0,0
+23,Preferente,6249.08,1,5,0,1,1,2.9,37.77,Medio,Costa,0,0
+44,Estándar,18235.43,2,8,1,0,0,2.8,31.56,Bajo,Selva,0,1
+31,Premium,28744.35,3,7,0,1,0,1.0,23.66,Bajo,Sierra,0,0
+28,Preferente,27473.78,1,7,0,1,1,1.2,30.14,Medio,Costa,0,1
+24,Estándar,15716.37,2,12,1,1,4,1.1,39.52,Medio,Sierra,0,1
+21,Premium,34759.82,4,6,1,1,0,1.3,37.16,Medio,Costa,1,0
+71,Estándar,0.0,2,7,1,1,0,2.5,39.86,Medio,Sierra,1,1
+56,Estándar,61510.87,3,6,0,1,1,2.8,34.75,Muy Alto,Sierra,0,1
+61,Estándar,22137.78,3,7,1,1,0,3.0,24.57,Alto,Costa,1,1
+51,Preferente,28081.3,4,8,1,1,0,1.1,35.46,Medio,Sierra,1,1
+37,Estándar,15257.76,1,14,1,1,1,2.4,35.93,Bajo,Selva,0,1
+66,Premium,22774.5,4,8,1,0,0,5.0,41.09,Muy Alto,Costa,0,0
+53,Estándar,26450.1,4,3,1,1,1,3.5,31.9,Medio,Costa,0,1
+60,Estándar,13495.65,3,5,1,0,0,4.7,24.81,Bajo,Selva,0,0
+28,Preferente,11169.43,5,9,1,0,0,3.4,35.18,Bajo,Costa,0,0
+46,Estándar,19351.47,3,7,0,0,1,2.1,56.88,Medio,Selva,1,1
+40,Estándar,21289.51,4,6,1,1,1,3.1,23.04,Muy Alto,Sierra,0,1
+33,Estándar,36393.43,4,7,1,1,1,2.9,47.31,Alto,Sierra,0,1
+38,Premium,8626.65,3,10,0,0,0,2.5,36.36,Muy Alto,Sierra,0,0
+32,Estándar,2288.75,4,4,1,1,2,4.2,30.88,Bajo,Costa,1,1
+67,Estándar,18625.36,1,4,0,1,0,3.6,26.76,Medio,Costa,0,1
+57,Estándar,0.0,2,10,1,1,0,3.3,31.58,Medio,Selva,0,1
+72,Estándar,22854.08,5,9,1,1,0,4.2,42.16,Medio,Costa,0,0
+74,Preferente,32337.48,1,3,1,0,0,3.8,20.34,Medio,Sierra,0,0
+56,Premium,0.0,2,7,1,1,0,4.1,40.02,Medio,Sierra,0,0
+54,Estándar,8189.14,5,4,0,0,1,2.3,29.85,Medio,Costa,1,1
+59,Premium,31166.37,4,6,1,0,0,3.8,23.86,Medio,Costa,0,0
+42,Premium,17799.68,5,7,1,1,0,2.1,40.46,Medio,Costa,0,0
+48,Preferente,11107.93,1,11,0,1,0,1.3,46.94,Medio,Sierra,0,1
+71,Estándar,54410.29,5,4,1,0,1,4.0,37.71,Alto,Costa,0,0
+64,Estándar,33980.24,4,8,0,1,0,2.0,20.5,Bajo,Costa,1,1
+27,Preferente,3519.16,1,1,1,0,0,3.3,43.35,Muy Alto,Sierra,0,0
+39,Estándar,6418.15,2,6,1,1,0,4.8,41.96,Medio,Costa,0,0
+21,Preferente,3206.32,1,8,1,1,1,4.8,27.67,Bajo,Sierra,0,0
+72,Preferente,21158.05,5,11,1,0,0,2.6,44.41,Bajo,Costa,0,0
+69,Estándar,26166.89,4,3,1,1,1,2.4,50.05,Medio,Sierra,0,1
+33,Estándar,15647.96,1,7,0,0,1,4.7,43.11,Alto,Costa,0,0
+52,Premium,33571.24,1,9,1,1,0,1.6,32.53,Bajo,Selva,1,0
+48,Estándar,40724.56,4,8,1,1,1,1.1,36.73,Medio,Sierra,0,1
+24,Estándar,17684.31,2,7,0,1,0,1.4,37.28,Bajo,Costa,0,1
+54,Estándar,32188.24,1,7,1,1,0,4.1,29.21,Medio,Costa,1,1
+51,Estándar,8692.61,3,9,1,0,1,4.2,27.55,Bajo,Costa,0,0
+57,Premium,13822.81,3,6,0,1,0,3.3,35.1,Medio,Sierra,0,0
+20,Premium,23859.27,5,5,1,1,0,4.5,30.64,Medio,Sierra,0,0
+53,Estándar,12610.75,2,8,1,1,0,1.7,32.77,Alto,Sierra,0,1
+68,Estándar,34099.63,5,8,1,1,1,2.0,43.53,Medio,Sierra,0,1
+28,Estándar,18176.02,1,7,0,0,1,2.1,22.99,Medio,Costa,0,1
+49,Preferente,34462.32,2,8,1,1,0,4.6,37.31,Bajo,Costa,0,0
+25,Preferente,24395.61,5,7,0,1,0,1.7,42.79,Medio,Costa,0,0
+51,Estándar,40466.27,5,4,1,0,0,3.3,26.71,Alto,Sierra,0,0
+65,Estándar,34877.17,4,11,1,1,0,1.0,28.92,Bajo,Sierra,1,1
+49,Preferente,18814.1,4,2,1,1,0,4.7,37.85,Medio,Costa,0,0
+27,Premium,42214.18,5,4,1,1,1,4.3,26.59,Bajo,Costa,0,0
+38,Preferente,35417.4,5,7,1,1,0,1.1,40.16,Medio,Costa,0,1
+52,Estándar,26923.8,1,5,1,1,0,1.6,27.64,Bajo,Selva,0,1
+35,Estándar,63673.78,2,7,1,1,0,2.2,33.59,Muy Alto,Costa,0,1
+62,Estándar,6315.72,2,8,1,1,1,1.4,42.6,Bajo,Costa,0,1
+72,Premium,15958.36,2,9,1,0,2,1.5,18.51,Medio,Selva,0,0
+21,Estándar,18406.47,5,7,1,1,1,2.0,37.43,Alto,Costa,1,1
+58,Preferente,18714.65,2,8,1,1,0,1.5,42.15,Medio,Costa,1,1
+58,Estándar,7726.41,4,8,1,0,1,4.7,42.88,Medio,Costa,0,0
+37,Preferente,20292.96,3,8,1,1,0,2.3,29.83,Alto,Costa,0,0
+48,Estándar,11066.95,1,9,1,1,1,3.5,22.03,Medio,Costa,0,1
+43,Preferente,23068.8,3,2,1,0,0,2.5,40.29,Bajo,Selva,0,0
+36,Preferente,14312.39,3,5,0,1,1,3.0,26.7,Medio,Costa,0,0
+39,Preferente,17353.58,2,3,1,1,0,3.2,38.23,Alto,Selva,0,0
+67,Estándar,34348.67,3,4,1,1,0,3.1,29.7,Bajo,Sierra,0,1
+59,Preferente,32598.38,3,9,1,1,0,3.0,26.55,Medio,Costa,0,0
+32,Premium,15573.18,5,6,1,0,0,4.3,46.1,Medio,Sierra,0,0
+47,Estándar,35500.38,2,4,1,1,0,2.5,31.56,Medio,Sierra,0,1
+31,Premium,5926.32,2,5,1,0,0,2.6,25.19,Bajo,Costa,0,0
+73,Estándar,9311.14,3,7,1,1,2,2.1,34.48,Medio,Sierra,0,1
+32,Preferente,0.0,5,7,1,1,0,1.4,43.88,Alto,Sierra,0,0
+46,Estándar,11069.53,5,6,1,1,0,4.3,36.14,Medio,Costa,0,0
+39,Estándar,3395.59,4,0,1,1,0,5.0,47.79,Bajo,Costa,0,0
+45,Estándar,31989.88,2,1,1,1,0,1.0,26.91,Alto,Costa,0,1
+46,Preferente,17014.44,1,2,1,1,0,1.0,24.63,Bajo,Costa,0,1
+23,Estándar,25193.86,2,7,1,1,0,3.1,31.09,Muy Alto,Sierra,0,1
+72,Estándar,45798.05,4,3,0,0,0,4.8,34.18,Medio,Costa,0,0
+24,Estándar,0.0,3,6,1,1,0,2.5,45.95,Medio,Sierra,0,1
+74,Estándar,9933.34,5,6,0,1,0,2.1,20.88,Alto,Costa,1,1
+33,Estándar,4901.48,4,5,1,0,3,2.4,42.72,Alto,Sierra,1,1
+34,Preferente,25940.81,3,5,1,1,1,4.1,35.49,Alto,Sierra,0,0
+38,Estándar,25339.56,1,5,1,0,0,1.7,30.26,Medio,Costa,0,1
+53,Estándar,18891.83,2,4,1,0,1,4.7,41.25,Bajo,Sierra,1,0
+33,Estándar,0.0,1,7,0,0,0,1.7,41.85,Medio,Sierra,1,1
+69,Estándar,37355.01,1,5,0,1,0,3.8,33.83,Alto,Selva,0,0
+56,Estándar,33851.8,1,10,0,1,1,3.4,55.12,Medio,Costa,1,1
+61,Preferente,22128.5,1,3,1,0,0,3.2,30.19,Medio,Costa,0,0
+27,Estándar,19793.61,2,5,1,1,0,3.5,33.99,Bajo,Sierra,0,1
+72,Estándar,11249.93,4,7,1,1,0,2.4,37.05,Bajo,Sierra,0,1
+25,Estándar,18022.59,1,11,0,0,0,2.4,36.99,Medio,Selva,1,1
+35,Preferente,48545.89,2,5,1,1,0,2.1,41.72,Bajo,Costa,0,0
+70,Premium,27115.68,4,6,1,1,0,4.0,31.98,Bajo,Sierra,0,0
+27,Estándar,0.0,4,8,1,0,0,2.0,48.73,Bajo,Sierra,0,1
+60,Estándar,19320.55,5,6,1,1,1,1.5,43.35,Medio,Costa,0,1
+55,Estándar,3737.27,4,6,1,1,1,4.7,32.76,Alto,Selva,0,0
+69,Estándar,25012.34,1,5,1,1,0,2.6,19.28,Muy Alto,Costa,0,1
+40,Preferente,15013.85,3,5,1,1,1,1.0,38.99,Medio,Sierra,1,1
+57,Estándar,55470.16,5,4,1,1,0,3.4,53.46,Medio,Selva,0,0
+41,Estándar,19453.68,2,6,0,1,2,3.3,41.53,Muy Alto,Costa,0,1
+63,Preferente,38497.0,4,5,1,1,0,4.2,46.11,Alto,Costa,0,0
+67,Estándar,34670.35,5,7,0,0,0,1.0,34.96,Medio,Selva,0,1
+37,Estándar,30485.64,5,3,0,1,0,2.9,42.22,Alto,Costa,0,0
+21,Premium,30707.72,2,6,0,0,1,2.6,37.47,Medio,Sierra,0,0
+53,Estándar,0.0,3,4,1,1,1,2.2,36.49,Medio,Sierra,0,1
+22,Estándar,7535.92,5,9,0,1,0,3.7,35.56,Medio,Selva,0,1
+22,Preferente,48438.9,5,1,1,0,0,2.3,18.8,Muy Alto,Costa,0,0
+61,Estándar,63614.37,3,6,0,1,0,4.0,29.71,Medio,Selva,0,0
+19,Preferente,34745.64,1,5,1,1,0,4.4,19.52,Medio,Costa,0,0
+64,Estándar,43528.14,4,3,1,0,0,2.1,36.03,Medio,Costa,0,1
+35,Preferente,6386.66,3,8,0,1,0,1.2,39.92,Muy Alto,Selva,0,1
+33,Premium,18797.23,2,11,0,1,0,3.1,31.69,Medio,Costa,0,0
+70,Estándar,21649.92,1,8,1,1,0,2.8,24.24,Medio,Selva,0,1
+47,Estándar,24876.28,3,8,0,0,1,3.0,31.43,Bajo,Sierra,0,1
+66,Preferente,27627.23,1,6,0,1,0,2.9,49.47,Medio,Costa,0,0
+18,Preferente,0.0,3,6,1,1,1,2.9,32.07,Bajo,Selva,0,0
+38,Estándar,44415.02,4,4,0,1,0,4.3,22.88,Medio,Sierra,0,0
+46,Preferente,32383.61,1,7,1,1,1,1.8,46.31,Alto,Selva,0,0
+58,Estándar,30379.97,1,7,1,1,1,2.6,28.14,Alto,Costa,1,1
+39,Preferente,30019.65,2,6,1,1,0,4.6,39.14,Muy Alto,Sierra,0,0
+22,Estándar,19822.52,2,4,1,1,0,4.1,41.02,Bajo,Costa,0,0
+63,Premium,34818.11,4,7,1,1,0,3.0,38.98,Bajo,Selva,0,0
+25,Preferente,0.0,4,4,1,1,0,3.6,28.56,Medio,Costa,0,0
+46,Estándar,31126.14,5,2,1,0,0,4.3,29.96,Medio,Sierra,1,0
+20,Estándar,1949.83,1,8,0,0,0,1.5,45.79,Muy Alto,Sierra,1,1
+51,Estándar,11170.33,3,7,0,0,1,3.6,38.85,Medio,Sierra,0,1
+32,Estándar,26917.98,4,4,1,1,0,1.9,27.44,Bajo,Selva,0,1
+34,Estándar,8694.13,4,1,0,1,0,3.5,30.67,Bajo,Costa,0,1
+37,Estándar,26216.42,4,6,1,0,0,4.0,33.64,Bajo,Costa,0,0
+28,Preferente,0.0,3,9,1,0,0,2.3,48.12,Medio,Costa,0,0
+69,Estándar,10045.07,3,3,1,1,0,3.9,35.65,Medio,Costa,0,1
+46,Premium,16256.31,2,7,1,0,0,2.5,25.57,Bajo,Costa,0,0
+66,Estándar,40065.44,1,3,1,1,0,1.7,23.3,Medio,Sierra,0,1
+32,Estándar,0.0,4,5,0,0,0,3.4,43.09,Medio,Costa,0,0
+65,Preferente,15098.74,3,8,1,0,1,3.7,38.13,Medio,Sierra,0,0
+56,Preferente,34449.03,3,8,1,1,1,1.7,40.13,Muy Alto,Costa,0,1
+27,Estándar,15357.1,5,2,1,0,0,3.5,33.84,Bajo,Costa,0,0
+67,Estándar,13831.58,5,6,1,1,0,4.6,17.64,Bajo,Costa,0,0
+69,Estándar,1497.22,3,7,1,0,0,4.3,33.84,Medio,Sierra,1,0
+63,Estándar,19774.32,2,5,1,1,1,1.9,40.66,Medio,Sierra,1,1
+56,Estándar,0.0,4,9,0,0,0,2.9,10.0,Medio,Selva,0,1
+64,Estándar,12517.76,2,8,0,1,0,4.8,46.97,Medio,Costa,0,0
+43,Preferente,8117.64,5,5,0,0,0,1.8,38.86,Bajo,Costa,0,0
+32,Preferente,20874.11,5,4,0,0,1,4.7,43.5,Medio,Sierra,0,0
+49,Preferente,5249.79,5,7,0,0,1,4.9,18.87,Medio,Selva,0,0
+43,Estándar,17263.89,2,8,0,0,0,3.7,38.86,Medio,Sierra,0,0
+51,Estándar,16246.39,3,7,1,0,2,3.6,42.44,Alto,Selva,1,0
+53,Preferente,19852.59,3,8,1,1,0,1.0,37.04,Medio,Sierra,0,1
+56,Estándar,34951.6,3,5,1,1,1,1.2,27.92,Medio,Costa,1,1
+30,Estándar,24056.6,1,2,1,1,1,1.0,29.71,Bajo,Costa,0,1
+47,Estándar,15280.8,1,8,1,1,1,2.7,33.0,Medio,Costa,0,1
+42,Estándar,16323.49,4,16,1,0,0,3.6,26.56,Medio,Costa,0,1
+59,Estándar,0.0,1,3,0,1,1,3.7,21.83,Medio,Costa,1,1
+58,Preferente,38065.76,3,8,1,1,0,2.5,45.12,Medio,Costa,0,0
+34,Estándar,29633.51,3,10,1,1,0,1.8,33.85,Medio,Sierra,1,1
+21,Preferente,10454.12,3,5,1,1,0,1.4,50.16,Medio,Selva,0,1
+45,Preferente,16802.93,5,8,1,0,0,2.0,28.6,Medio,Costa,0,0
+18,Preferente,20499.31,4,6,1,1,0,4.6,31.42,Medio,Costa,0,0
+35,Estándar,7199.67,4,5,0,1,0,1.8,26.71,Muy Alto,Costa,0,1
+29,Estándar,36234.17,4,7,1,0,0,1.1,24.49,Medio,Costa,1,1
+49,Estándar,30703.36,3,7,1,1,0,3.9,43.82,Bajo,Costa,0,0
+46,Preferente,41157.53,5,10,1,1,0,4.0,39.77,Medio,Costa,0,0
+35,Preferente,3336.91,2,1,1,1,0,4.0,19.68,Muy Alto,Sierra,0,0
+49,Estándar,18681.06,1,12,1,0,3,3.9,27.33,Bajo,Costa,0,1
+44,Estándar,35242.16,1,5,1,0,1,2.2,34.47,Bajo,Sierra,0,1
+39,Estándar,33777.35,2,9,0,1,2,2.2,44.49,Bajo,Selva,0,1
+29,Estándar,2003.71,1,11,0,0,0,1.3,41.22,Bajo,Selva,0,1
+20,Estándar,10473.57,1,10,1,0,1,3.9,36.89,Medio,Sierra,0,1
+68,Preferente,27999.24,5,7,1,0,1,1.5,35.7,Bajo,Sierra,0,0
+69,Estándar,5732.76,4,8,1,1,1,2.9,34.54,Medio,Sierra,0,1
+53,Preferente,36370.11,4,8,1,1,1,3.6,44.74,Bajo,Costa,0,0
+27,Premium,35432.85,5,4,1,1,0,3.0,37.94,Alto,Costa,0,0
+49,Estándar,28047.12,5,10,1,0,0,1.9,22.92,Muy Alto,Selva,0,1
+22,Estándar,33071.37,3,5,1,1,0,4.5,18.53,Bajo,Costa,0,0
+70,Premium,32697.09,3,6,1,1,1,2.3,43.18,Medio,Costa,0,0
+27,Preferente,30475.04,1,7,1,1,0,3.2,38.8,Bajo,Costa,0,0
+51,Estándar,14812.18,5,8,1,1,0,4.5,34.43,Medio,Sierra,0,0
+60,Premium,22620.45,2,6,1,0,2,2.4,19.39,Bajo,Costa,0,0
+43,Preferente,37560.4,4,7,1,0,0,2.3,45.59,Muy Alto,Sierra,1,0
+48,Preferente,1668.52,5,2,1,1,0,2.8,44.03,Medio,Selva,0,0
+62,Preferente,0.0,1,10,1,0,0,4.2,35.62,Alto,Sierra,0,0
+26,Preferente,327.91,1,3,1,0,1,1.4,41.05,Medio,Costa,1,1
+57,Preferente,28852.34,5,8,0,1,0,1.9,47.76,Medio,Sierra,0,0
+37,Preferente,9654.88,1,6,1,0,0,1.4,30.35,Alto,Sierra,0,0
+60,Preferente,57478.6,1,5,1,1,1,3.1,20.57,Medio,Sierra,0,0
+56,Preferente,39599.97,1,4,0,1,1,3.1,29.42,Alto,Selva,0,0
+66,Estándar,23106.06,3,9,1,0,1,3.7,33.32,Alto,Costa,0,0
+41,Estándar,22295.72,4,4,1,1,0,4.3,40.29,Alto,Costa,0,0
+50,Estándar,30461.3,3,9,1,1,1,3.7,31.76,Bajo,Sierra,0,1
+30,Preferente,32783.59,2,5,0,0,1,4.2,33.39,Bajo,Sierra,0,0
+71,Premium,24698.87,2,5,1,1,0,3.4,19.41,Bajo,Costa,0,0
+48,Estándar,30404.52,3,4,1,1,0,4.0,37.99,Muy Alto,Costa,1,0
+54,Preferente,0.0,1,6,1,0,0,2.1,35.18,Medio,Costa,1,0
+21,Preferente,26552.59,5,5,1,0,0,4.6,37.08,Bajo,Costa,0,0
+57,Estándar,23208.27,3,5,1,0,0,4.9,34.72,Medio,Selva,0,0
+54,Premium,26704.64,5,6,1,1,0,3.0,34.37,Alto,Costa,0,0
+72,Premium,25533.44,3,9,1,1,0,1.1,41.34,Alto,Sierra,0,0
+32,Preferente,5035.29,5,7,1,0,0,1.8,36.15,Muy Alto,Selva,0,0
+31,Estándar,14140.36,4,4,0,1,1,2.1,20.71,Medio,Costa,0,1
+18,Estándar,23530.53,3,9,1,1,0,3.3,44.64,Medio,Sierra,0,1
+38,Preferente,28926.54,3,2,0,0,2,2.1,43.59,Medio,Costa,0,0
+43,Estándar,35645.51,3,14,1,1,0,4.8,37.26,Alto,Selva,0,0
+59,Preferente,29122.09,2,6,1,1,1,1.7,26.04,Alto,Costa,0,0
+56,Preferente,0.0,5,7,0,1,1,1.3,28.72,Bajo,Costa,0,1
+42,Premium,20919.34,2,6,1,1,0,1.5,38.72,Bajo,Costa,1,0
+32,Estándar,25827.88,4,7,1,1,1,4.1,44.28,Alto,Sierra,0,0
+43,Estándar,21879.63,2,6,1,0,0,3.5,35.01,Alto,Costa,0,0
+28,Estándar,14714.1,4,7,1,1,0,1.5,39.0,Bajo,Costa,0,1
+23,Estándar,24446.83,1,7,1,0,0,2.3,51.83,Bajo,Selva,0,1
+25,Estándar,21941.88,1,3,1,1,0,4.5,40.59,Medio,Sierra,0,0
+45,Preferente,10743.32,5,3,0,1,2,1.6,51.15,Bajo,Sierra,0,0
+51,Estándar,25031.53,4,12,1,0,0,1.8,37.21,Bajo,Costa,0,1
+31,Estándar,11251.4,1,9,1,1,0,3.7,33.55,Bajo,Sierra,0,1
+31,Estándar,9499.7,2,9,0,1,0,4.4,32.08,Medio,Costa,0,1
+21,Estándar,19286.02,2,9,1,0,4,2.8,34.04,Bajo,Costa,0,1
+41,Preferente,41277.49,5,6,1,1,0,2.7,45.21,Alto,Costa,0,0
+66,Estándar,28624.09,2,5,1,0,1,1.1,34.51,Alto,Sierra,1,1
+52,Estándar,33711.59,2,6,1,0,0,3.3,35.41,Bajo,Costa,0,0
+24,Preferente,24883.99,5,8,0,0,0,4.3,39.96,Medio,Selva,0,0
+31,Premium,40838.51,1,5,1,0,0,3.6,40.03,Alto,Selva,0,0
+23,Preferente,14564.76,3,6,0,1,0,3.3,19.45,Muy Alto,Costa,0,0
+59,Premium,2581.59,4,4,1,0,0,3.9,28.65,Alto,Sierra,0,0
+71,Estándar,3194.95,5,3,0,1,1,3.6,31.67,Medio,Costa,0,1
+46,Estándar,39807.19,1,6,1,0,0,4.9,35.55,Muy Alto,Sierra,1,0
+29,Preferente,13398.55,2,6,1,1,0,2.3,44.62,Muy Alto,Sierra,0,0
+51,Estándar,13696.95,4,9,0,0,0,1.1,26.08,Medio,Sierra,1,1
+40,Estándar,33431.82,4,9,1,1,0,2.7,42.7,Medio,Costa,0,1
+18,Premium,21424.44,4,10,1,1,0,3.0,36.95,Alto,Selva,0,0
+59,Preferente,0.0,2,5,0,0,1,4.5,31.49,Alto,Selva,0,0
+37,Preferente,42444.94,2,8,1,0,0,2.8,39.57,Bajo,Costa,0,0
+19,Premium,3544.98,5,4,1,0,2,1.2,40.62,Medio,Sierra,0,0
+42,Preferente,17786.44,5,5,1,0,1,1.1,46.87,Bajo,Costa,0,0
+70,Estándar,21092.35,3,6,1,0,0,1.1,37.04,Medio,Costa,0,1
+70,Preferente,10338.86,5,9,1,0,0,4.4,40.9,Medio,Sierra,0,0
+42,Estándar,14988.13,1,4,1,1,0,3.4,38.43,Alto,Sierra,0,1
+74,Estándar,15147.92,1,5,0,1,0,4.1,30.1,Medio,Sierra,1,1
+53,Estándar,16853.65,2,5,1,1,0,1.1,33.8,Medio,Sierra,0,1
+40,Preferente,17940.16,5,3,1,0,0,4.3,39.05,Medio,Sierra,0,0
+24,Estándar,21532.12,5,1,0,0,1,3.1,34.13,Medio,Sierra,0,0
+54,Premium,1308.31,5,6,1,1,1,4.1,26.65,Medio,Costa,0,0
+66,Estándar,32841.7,5,6,1,1,1,1.5,28.72,Alto,Costa,0,1
+59,Preferente,41656.49,4,8,1,0,0,2.7,22.32,Medio,Selva,0,0
+21,Preferente,42545.62,3,9,0,0,0,2.2,34.14,Muy Alto,Selva,0,0
+61,Estándar,8170.05,4,5,1,0,0,4.1,40.93,Bajo,Sierra,0,0
+44,Estándar,24894.76,3,13,1,1,0,1.2,23.82,Medio,Selva,0,1
+47,Estándar,0.0,4,1,0,1,0,4.3,35.42,Bajo,Costa,0,0
+61,Estándar,5779.55,1,10,1,0,0,1.2,38.31,Medio,Sierra,1,1
+64,Preferente,15717.69,4,14,0,1,3,1.6,43.96,Medio,Costa,0,1
+44,Estándar,28247.18,1,8,0,1,1,1.9,38.58,Bajo,Sierra,1,1
+39,Estándar,33155.14,3,4,0,0,0,2.9,23.85,Alto,Costa,0,0
+73,Preferente,42722.44,4,6,1,1,0,4.9,24.75,Bajo,Sierra,0,0
+21,Premium,0.0,5,7,1,1,0,1.9,40.35,Medio,Sierra,0,0
+36,Estándar,24368.21,1,6,1,1,0,1.4,23.13,Medio,Costa,0,1
+74,Estándar,18853.09,1,9,1,1,0,4.0,44.51,Bajo,Costa,0,1
+50,Preferente,30017.41,3,11,1,0,0,3.2,42.49,Medio,Costa,0,0
+59,Estándar,33152.73,1,6,0,1,2,5.0,29.55,Alto,Selva,0,0
+32,Preferente,0.0,4,5,1,1,0,4.6,38.52,Muy Alto,Costa,0,0
+28,Preferente,35058.16,3,4,1,1,2,3.1,30.83,Medio,Selva,0,0
+51,Preferente,4736.54,4,6,1,0,2,2.1,30.02,Alto,Costa,0,0
+35,Estándar,26426.91,1,6,0,1,1,1.2,23.13,Medio,Selva,1,1
+59,Estándar,37080.44,4,9,1,1,0,1.2,52.66,Alto,Sierra,0,1
+24,Premium,5790.9,5,7,1,0,1,3.9,39.08,Alto,Costa,0,0
+21,Preferente,34357.64,4,4,0,1,1,4.9,39.08,Bajo,Costa,0,0
+38,Preferente,2401.05,5,5,1,1,0,1.6,48.36,Alto,Sierra,0,0
+27,Estándar,42208.96,1,5,1,0,0,3.9,25.33,Medio,Costa,0,0
+45,Estándar,8519.38,4,7,0,0,1,1.1,35.73,Medio,Costa,0,1
+53,Preferente,13898.39,4,8,1,1,1,2.2,28.36,Medio,Costa,0,1
+64,Estándar,24412.22,1,11,1,1,0,2.2,34.16,Medio,Costa,1,1
+54,Estándar,24741.63,4,7,0,1,0,4.3,27.9,Bajo,Costa,0,0
+37,Preferente,0.0,4,6,1,1,0,2.0,27.49,Bajo,Selva,0,0
+25,Estándar,34839.97,4,4,1,1,0,1.7,23.1,Bajo,Selva,1,1
+29,Estándar,7152.53,3,5,1,0,1,1.9,38.74,Alto,Costa,0,1
+39,Estándar,12966.64,1,4,1,1,1,2.7,28.27,Medio,Costa,0,1
+70,Estándar,13080.04,3,8,1,0,0,3.4,30.29,Medio,Costa,0,1
+41,Preferente,42925.87,5,6,1,0,2,2.4,27.67,Muy Alto,Sierra,0,0
+73,Preferente,30618.31,5,10,1,0,0,4.3,33.81,Medio,Sierra,0,0
+47,Estándar,12227.05,4,11,0,0,0,3.0,38.02,Alto,Sierra,0,0
+36,Estándar,29840.28,4,7,1,1,0,2.8,34.15,Alto,Costa,0,1
+41,Estándar,38038.49,4,3,1,1,0,4.2,36.18,Medio,Sierra,0,0
+68,Estándar,38091.2,5,4,0,1,0,2.4,25.57,Medio,Selva,1,1
+31,Estándar,35431.18,5,10,0,0,1,3.5,28.42,Muy Alto,Selva,1,0
+30,Estándar,9151.05,3,4,1,1,0,2.8,27.15,Bajo,Sierra,0,1
+46,Estándar,36133.48,1,9,1,1,0,3.9,37.88,Alto,Costa,0,1
+67,Estándar,8634.69,2,8,0,0,0,3.5,31.96,Muy Alto,Sierra,0,1
+61,Estándar,23864.45,3,7,1,0,0,3.1,45.1,Bajo,Sierra,0,0
+39,Estándar,0.0,1,6,0,0,2,4.5,40.48,Muy Alto,Selva,0,0
+25,Preferente,26266.64,2,1,1,1,0,4.9,46.99,Medio,Sierra,0,0
+36,Estándar,20156.79,3,4,1,0,0,2.2,43.71,Alto,Costa,0,1
+68,Estándar,21618.53,2,6,1,0,0,4.7,22.18,Bajo,Sierra,0,0
+41,Estándar,16703.56,2,5,1,0,1,2.6,42.74,Medio,Costa,0,1
+69,Preferente,3152.07,2,10,1,1,0,3.5,21.57,Alto,Costa,1,0
+72,Preferente,30589.83,1,4,0,1,1,1.3,35.29,Alto,Costa,0,1
+37,Premium,24492.25,2,2,1,0,0,3.3,29.72,Bajo,Costa,0,0
+55,Estándar,19297.45,5,6,1,1,1,1.3,37.71,Alto,Sierra,0,1
+43,Estándar,10153.98,2,7,1,1,0,3.9,39.9,Alto,Costa,0,1
+36,Estándar,24710.38,2,6,1,0,0,2.8,31.98,Medio,Costa,1,1
+34,Preferente,44851.1,2,9,1,1,0,3.4,33.52,Alto,Costa,0,0
+31,Estándar,0.0,1,6,1,1,0,2.1,26.71,Bajo,Selva,1,1
+24,Estándar,38379.46,3,9,1,1,0,1.5,29.21,Muy Alto,Costa,1,1
+31,Estándar,21268.79,3,8,1,1,0,1.6,44.35,Medio,Costa,0,1
+55,Premium,20922.44,3,4,1,0,1,1.3,37.18,Medio,Costa,0,0
+72,Preferente,31454.65,5,6,1,1,2,3.6,27.64,Bajo,Sierra,0,0
+54,Estándar,51375.66,3,4,1,1,0,4.8,31.33,Bajo,Selva,1,0
+41,Preferente,35198.51,5,4,1,0,1,2.8,33.58,Medio,Costa,0,0
+65,Estándar,24016.43,5,5,1,0,1,4.9,26.45,Muy Alto,Costa,0,0
+21,Estándar,16144.22,5,7,1,1,1,4.3,32.39,Medio,Selva,0,0
+57,Estándar,8794.04,4,9,1,1,0,2.2,54.2,Bajo,Sierra,0,1
+74,Estándar,27902.22,3,4,0,0,0,2.2,25.81,Muy Alto,Costa,0,1
+53,Estándar,23484.6,5,6,1,1,0,3.7,46.57,Medio,Costa,0,0
+66,Premium,17338.85,1,8,1,1,1,3.2,28.75,Bajo,Costa,0,0
+73,Premium,22911.06,2,11,0,1,0,4.4,26.64,Muy Alto,Costa,0,0
+26,Estándar,4210.23,3,7,1,1,0,2.2,37.37,Medio,Sierra,0,1
+46,Estándar,6660.55,3,10,1,0,0,1.9,17.74,Bajo,Sierra,1,1
+21,Preferente,2865.61,5,8,1,1,0,1.8,34.73,Medio,Costa,0,1
+67,Estándar,35758.1,3,8,1,1,0,2.2,35.91,Alto,Selva,0,1
+67,Premium,0.0,2,5,0,1,0,3.2,28.72,Alto,Selva,0,0
+33,Estándar,3009.96,3,8,1,0,0,3.7,37.54,Bajo,Costa,0,0
+18,Estándar,24001.19,2,9,1,1,1,3.7,28.41,Bajo,Sierra,0,1
+32,Preferente,26360.44,3,4,1,1,1,3.0,33.55,Medio,Selva,0,0
+48,Estándar,20270.92,5,10,1,0,0,3.8,36.1,Medio,Selva,0,0
+58,Preferente,18939.17,5,3,1,1,0,2.1,34.95,Bajo,Selva,0,0
+57,Estándar,7641.96,1,7,0,1,0,3.7,40.8,Medio,Costa,0,1
+69,Preferente,6594.3,5,8,1,0,0,2.3,33.98,Medio,Sierra,0,0
+54,Estándar,19386.21,4,1,0,0,3,4.6,38.66,Alto,Sierra,0,0
+59,Premium,5870.94,3,9,0,1,1,1.3,42.41,Alto,Costa,0,1
+34,Estándar,23435.17,2,9,1,0,1,2.7,28.77,Bajo,Costa,0,1
+69,Estándar,18170.78,1,6,0,0,2,3.9,27.55,Muy Alto,Costa,0,1
+60,Estándar,18627.12,4,5,1,1,0,1.8,40.43,Medio,Costa,0,1
+32,Preferente,31045.28,5,5,1,1,1,1.9,28.03,Medio,Costa,0,0
+46,Preferente,17266.58,4,4,1,0,1,4.8,47.16,Bajo,Selva,0,0
+21,Preferente,13564.84,1,8,1,1,0,3.4,47.04,Medio,Costa,0,0
+59,Preferente,22038.14,3,9,1,0,0,3.3,41.1,Muy Alto,Costa,0,0
+48,Estándar,2813.42,3,4,1,1,0,2.9,28.92,Bajo,Sierra,0,1
+44,Estándar,17363.59,5,7,1,1,0,3.1,31.31,Medio,Costa,0,1
+23,Estándar,5304.1,1,6,1,0,1,1.9,33.87,Muy Alto,Costa,1,1
+59,Estándar,26966.32,4,3,0,1,1,3.4,39.43,Bajo,Costa,0,1
+40,Estándar,35567.59,4,4,1,0,0,4.8,54.95,Bajo,Sierra,0,0
+55,Preferente,33534.13,5,5,0,1,0,4.4,32.57,Medio,Costa,0,0
+20,Estándar,0.0,4,3,1,1,0,4.9,38.76,Bajo,Costa,0,0
+51,Estándar,15198.44,5,9,1,1,1,3.5,39.0,Alto,Sierra,0,1
+58,Preferente,0.0,2,3,1,0,1,1.5,33.58,Bajo,Sierra,0,0
+19,Preferente,31517.89,4,3,0,0,1,4.5,33.51,Medio,Costa,0,0
+52,Preferente,27634.43,4,8,1,0,0,2.3,24.38,Medio,Costa,0,0
+35,Estándar,37027.86,2,14,1,1,0,3.8,36.2,Muy Alto,Sierra,0,1
+45,Estándar,505.44,1,4,0,1,1,2.9,42.45,Muy Alto,Costa,0,1
+46,Estándar,13747.11,4,6,1,1,1,3.3,37.95,Alto,Costa,0,1
+57,Estándar,16917.55,4,7,1,0,1,1.8,41.92,Medio,Sierra,0,1
+31,Preferente,6715.42,5,5,1,1,1,3.1,41.89,Alto,Costa,0,0
+50,Estándar,9202.28,3,10,0,1,2,2.6,21.84,Medio,Costa,0,1
+30,Estándar,0.0,1,2,1,1,1,4.2,21.56,Alto,Sierra,0,0
+72,Premium,38113.88,1,3,1,0,0,4.2,40.93,Bajo,Sierra,0,0
+70,Preferente,29521.32,4,4,1,0,0,2.5,40.82,Medio,Costa,0,0
+71,Preferente,43926.43,1,5,0,1,0,3.5,33.93,Alto,Sierra,0,0
+40,Estándar,19779.39,2,7,1,1,0,2.1,29.34,Alto,Costa,1,1
+41,Estándar,7405.71,1,6,0,0,0,1.2,28.78,Medio,Sierra,1,1
+71,Preferente,29601.1,4,4,1,1,0,1.3,48.48,Alto,Sierra,0,0
+39,Preferente,468.24,4,11,1,0,1,4.1,35.35,Medio,Sierra,0,0
+42,Estándar,32524.4,2,4,0,1,2,2.2,44.73,Medio,Costa,0,1
+21,Premium,11264.14,1,5,1,1,0,2.1,37.58,Bajo,Sierra,1,0
+20,Estándar,6181.05,3,7,0,1,0,2.5,25.62,Alto,Costa,1,1
+66,Estándar,24780.28,4,8,0,1,0,1.8,44.21,Bajo,Costa,0,1
+73,Estándar,29072.92,3,1,1,1,0,1.8,46.43,Medio,Costa,1,1
+31,Premium,22096.81,3,6,0,0,0,4.7,30.7,Medio,Sierra,0,0
+65,Preferente,22428.58,4,12,1,1,0,4.7,34.2,Bajo,Costa,0,0
+49,Estándar,16806.36,2,7,0,1,0,3.2,44.73,Medio,Costa,0,1
+27,Estándar,18532.04,1,4,0,1,0,4.1,35.1,Bajo,Sierra,0,0
+25,Estándar,43067.14,3,4,0,0,2,1.0,39.28,Bajo,Selva,0,1
+35,Preferente,8602.97,3,9,1,1,0,2.0,36.07,Alto,Costa,1,0
+59,Premium,0.0,1,2,1,0,0,1.4,41.15,Medio,Sierra,0,0
+44,Premium,6014.84,2,6,0,1,0,5.0,13.22,Bajo,Costa,0,0
+46,Estándar,7823.59,2,4,1,1,0,2.8,29.7,Medio,Costa,0,1
+63,Estándar,8745.8,2,7,0,1,2,2.9,38.92,Alto,Sierra,1,1
+71,Estándar,18326.28,2,3,0,1,0,2.9,40.99,Muy Alto,Costa,1,1
+54,Estándar,15842.24,4,9,0,0,2,3.4,48.62,Medio,Selva,0,1
+73,Estándar,32970.42,1,8,1,1,2,2.2,41.45,Medio,Sierra,0,1
+74,Estándar,24483.46,5,6,1,0,0,1.9,56.12,Alto,Costa,0,1
+74,Estándar,5352.16,2,9,1,1,1,2.2,35.45,Bajo,Sierra,0,1
+54,Estándar,49240.28,5,7,0,0,0,1.0,32.56,Medio,Costa,0,1
+24,Estándar,32555.79,4,7,1,1,1,2.5,32.66,Bajo,Costa,0,1
+51,Estándar,34491.4,5,9,0,0,0,2.3,15.58,Bajo,Costa,1,1
+54,Premium,44666.16,5,5,1,0,0,3.2,16.24,Alto,Costa,0,0
+53,Preferente,20685.11,4,6,1,0,0,3.2,32.02,Bajo,Selva,0,0
+47,Estándar,0.0,1,9,0,1,0,2.7,26.62,Medio,Selva,0,1
+42,Preferente,0.0,2,5,0,0,0,3.1,41.85,Bajo,Selva,0,0
+24,Preferente,26916.02,5,8,1,1,0,1.7,37.99,Medio,Costa,1,0
+43,Preferente,0.0,2,6,0,0,1,4.4,37.35,Alto,Costa,1,0
+23,Preferente,0.0,2,9,0,1,2,4.7,46.47,Bajo,Sierra,0,0
+29,Preferente,21606.36,4,7,1,1,0,4.4,40.79,Medio,Sierra,0,0
+52,Preferente,11946.12,5,2,0,1,1,1.9,44.23,Bajo,Costa,0,0
+53,Preferente,9726.38,2,7,0,1,0,2.8,46.39,Medio,Costa,0,0
+72,Preferente,0.0,1,3,1,1,0,3.2,30.38,Medio,Sierra,0,0
+56,Estándar,9621.38,1,3,1,0,1,1.2,29.11,Medio,Sierra,0,1
+20,Estándar,51923.32,1,7,0,0,1,3.3,36.71,Bajo,Sierra,0,0
+38,Preferente,16273.61,1,4,1,1,0,3.5,33.7,Medio,Costa,0,0
+67,Estándar,19963.65,1,10,0,1,0,3.1,27.97,Bajo,Sierra,1,1
+43,Estándar,17900.78,1,4,1,1,0,3.6,40.98,Medio,Costa,0,1
+70,Estándar,53261.65,2,7,1,1,1,3.8,45.02,Muy Alto,Sierra,0,1
+64,Estándar,0.0,1,7,0,0,1,4.2,35.93,Medio,Costa,0,1
+38,Estándar,6242.56,5,5,1,0,0,3.7,30.72,Medio,Costa,0,0
+62,Estándar,34829.73,4,7,0,0,1,2.2,46.28,Alto,Costa,0,1
+52,Estándar,14504.86,4,5,1,1,2,2.7,36.44,Medio,Selva,0,1
+46,Estándar,6886.83,3,5,1,1,0,1.9,43.82,Medio,Sierra,0,1
+21,Estándar,8040.52,2,5,1,1,0,2.3,49.25,Medio,Selva,0,1
+40,Estándar,40214.95,3,5,0,1,0,4.0,34.42,Medio,Sierra,0,0
+54,Preferente,23863.94,1,5,1,0,0,1.9,36.52,Bajo,Sierra,0,0
+24,Estándar,45756.03,2,4,1,1,1,3.1,39.28,Bajo,Selva,0,1
+65,Estándar,49101.85,5,6,0,1,1,1.8,29.81,Medio,Costa,1,1
+27,Estándar,16383.99,5,7,0,1,0,1.2,30.47,Alto,Selva,0,1
+25,Estándar,39479.43,2,4,0,1,0,1.9,28.9,Bajo,Costa,0,1
+58,Estándar,14668.86,1,6,0,1,2,1.2,30.29,Alto,Costa,0,1
+37,Preferente,22080.9,5,6,1,1,0,3.0,50.9,Alto,Sierra,0,0
+42,Preferente,26721.6,1,11,1,1,1,3.8,46.69,Bajo,Costa,0,0
+26,Estándar,22167.48,2,4,1,0,2,4.6,42.21,Bajo,Sierra,0,0
+43,Preferente,50091.21,4,5,0,0,1,4.0,33.77,Muy Alto,Sierra,0,0
+27,Premium,28941.21,1,5,1,1,2,1.8,39.35,Bajo,Costa,1,0
+41,Preferente,29317.37,4,4,1,1,1,3.5,38.38,Medio,Costa,0,0
+53,Estándar,20274.96,5,8,1,0,1,3.3,36.25,Bajo,Sierra,0,0
+46,Estándar,0.0,1,8,1,1,0,2.4,24.88,Medio,Costa,0,1
+47,Premium,22387.02,3,5,1,0,0,3.0,50.18,Bajo,Costa,0,0
+28,Preferente,10641.71,5,3,0,0,0,5.0,31.2,Medio,Sierra,0,0
+44,Estándar,13271.41,4,6,0,1,0,3.8,36.56,Medio,Selva,0,0
+71,Preferente,12628.28,5,0,1,1,1,4.3,41.0,Medio,Costa,0,0
+21,Estándar,52292.21,3,6,1,0,0,4.3,30.72,Muy Alto,Sierra,0,0
+36,Estándar,38256.47,5,4,0,1,0,2.0,41.46,Medio,Costa,0,1
+35,Estándar,0.0,3,4,1,1,0,4.4,46.76,Medio,Costa,0,0
+66,Estándar,7670.19,4,6,0,1,0,4.1,22.61,Medio,Selva,0,0
+57,Estándar,8210.33,1,6,0,0,0,4.1,43.6,Bajo,Selva,0,0
+59,Estándar,0.0,1,6,0,1,0,1.9,31.35,Bajo,Sierra,0,1
+27,Estándar,27368.7,2,6,1,1,1,3.7,43.61,Medio,Sierra,0,1
+34,Estándar,46011.23,1,7,1,1,1,4.6,55.97,Bajo,Sierra,0,0
+47,Estándar,29903.53,1,5,1,0,1,3.6,37.33,Muy Alto,Costa,1,1
+23,Estándar,41277.84,4,9,1,0,3,2.3,37.41,Medio,Sierra,0,1
+60,Preferente,32229.04,4,6,0,0,0,2.8,34.11,Medio,Costa,0,0
+74,Estándar,14370.97,2,2,1,1,1,4.7,35.88,Medio,Costa,0,0
+54,Preferente,821.68,1,9,0,0,0,4.2,36.45,Bajo,Costa,0,0
+41,Preferente,20397.61,5,6,1,1,0,4.4,35.93,Medio,Costa,0,0
+68,Estándar,19527.16,3,2,1,1,1,4.4,40.89,Medio,Costa,0,0
+34,Estándar,20367.76,1,5,1,1,0,4.6,42.31,Medio,Costa,0,0
+66,Preferente,36697.38,2,5,1,0,0,3.7,40.49,Medio,Selva,0,0
+48,Estándar,2989.36,5,6,0,1,1,4.6,48.07,Medio,Sierra,0,0
+30,Preferente,18366.61,5,7,1,1,0,3.6,28.16,Alto,Sierra,0,0
+19,Estándar,45184.29,2,4,0,0,1,4.6,49.96,Medio,Sierra,0,0
+28,Preferente,12952.33,5,9,1,1,0,3.4,33.83,Bajo,Selva,0,0
+33,Premium,19019.8,4,11,1,0,0,4.7,44.52,Muy Alto,Costa,0,0
+32,Estándar,36350.64,3,9,0,0,0,2.4,52.62,Bajo,Costa,0,1
+56,Preferente,2252.43,2,6,0,0,1,4.9,29.65,Medio,Costa,0,0
+40,Estándar,20897.76,5,5,0,1,0,1.8,41.74,Alto,Costa,0,1
+54,Preferente,12474.6,2,5,1,1,0,1.1,33.46,Medio,Selva,0,1
+51,Estándar,31061.22,4,6,1,1,1,2.3,40.82,Bajo,Sierra,0,1
+53,Preferente,15993.42,2,4,1,1,1,3.0,29.8,Alto,Costa,0,0
+31,Premium,35135.07,2,8,1,0,0,3.7,47.22,Bajo,Sierra,0,0
+38,Preferente,23845.06,4,4,1,1,0,3.5,44.96,Medio,Costa,0,0
+25,Preferente,26492.95,3,8,1,1,0,1.6,34.4,Medio,Costa,0,1
+38,Estándar,32064.37,5,5,1,0,1,4.4,33.44,Bajo,Sierra,0,0
+30,Preferente,31596.02,2,4,1,1,0,1.3,38.93,Medio,Selva,1,0
+31,Estándar,27504.5,3,10,1,1,0,3.8,43.3,Bajo,Sierra,0,1
+52,Estándar,12891.37,4,8,0,1,0,1.6,11.48,Alto,Selva,0,1
+52,Preferente,0.0,4,4,1,1,0,4.8,21.91,Bajo,Costa,0,0
+51,Preferente,18270.78,5,8,1,1,1,2.2,54.24,Alto,Costa,1,0
+58,Estándar,10684.17,4,5,0,1,1,3.0,31.02,Bajo,Costa,0,1
+56,Estándar,21489.93,2,7,1,1,1,3.1,30.37,Medio,Sierra,0,1
+51,Preferente,5759.12,3,8,1,1,1,3.4,38.32,Bajo,Costa,0,0
+45,Estándar,14452.12,2,10,0,1,0,2.1,25.44,Bajo,Costa,0,1
+74,Estándar,29940.33,1,5,0,1,1,4.3,43.47,Muy Alto,Sierra,0,1
+28,Estándar,9850.23,2,7,0,0,0,4.7,55.89,Alto,Costa,0,0
+54,Premium,21055.12,2,5,0,0,1,3.3,43.52,Alto,Selva,1,0
+33,Estándar,329.73,1,6,1,1,0,3.9,34.86,Bajo,Costa,0,1
+74,Preferente,14706.26,3,2,1,1,2,3.5,33.99,Medio,Costa,0,0
+42,Preferente,30144.86,1,8,1,1,0,2.1,44.27,Muy Alto,Sierra,0,1
+54,Premium,15556.49,5,5,1,1,0,2.1,29.12,Muy Alto,Costa,0,0
+38,Premium,17518.49,1,11,1,0,0,4.5,24.75,Medio,Selva,0,0
+53,Estándar,32558.99,3,4,1,1,0,4.7,48.28,Medio,Sierra,0,0
+32,Premium,19746.56,1,4,1,1,0,2.6,39.72,Alto,Sierra,0,0
+57,Estándar,39265.33,1,3,1,0,0,3.5,28.61,Alto,Sierra,0,0
+60,Estándar,17095.51,1,7,0,0,0,3.8,41.72,Medio,Costa,0,1
+27,Preferente,50603.36,4,8,0,1,0,3.3,29.83,Muy Alto,Sierra,0,0
+54,Premium,6817.67,2,4,1,1,0,2.1,40.57,Bajo,Selva,0,0
+31,Preferente,16255.53,5,9,1,1,1,3.4,32.68,Medio,Costa,0,0
+50,Estándar,33935.86,4,7,0,0,0,4.0,31.79,Medio,Sierra,0,0
+31,Estándar,5737.07,3,6,1,0,0,4.1,37.69,Bajo,Sierra,0,0
+56,Preferente,30168.49,1,11,1,1,1,1.8,46.09,Alto,Costa,0,1
+39,Estándar,14262.22,1,5,1,0,1,2.3,31.19,Medio,Sierra,0,1
+23,Estándar,27487.94,5,4,1,1,0,1.2,25.04,Medio,Selva,0,1
+39,Preferente,30634.53,1,13,1,1,1,1.6,33.98,Alto,Sierra,0,1
+29,Preferente,50341.95,3,1,1,1,1,4.5,36.29,Alto,Costa,0,0
+47,Estándar,17696.74,2,7,0,1,0,2.4,30.41,Alto,Sierra,0,1
+18,Estándar,33650.87,5,9,1,1,0,4.8,53.13,Muy Alto,Costa,0,0
+59,Estándar,29766.29,5,7,0,1,2,4.2,30.55,Medio,Selva,0,0
+67,Estándar,19966.02,4,6,1,0,2,4.2,40.86,Medio,Selva,1,0
+36,Estándar,2234.51,3,9,1,1,0,2.8,21.08,Medio,Selva,1,1
+26,Preferente,10926.02,4,6,1,1,0,3.4,30.61,Bajo,Selva,0,0
+38,Estándar,5419.35,5,9,1,1,1,2.8,24.23,Medio,Costa,0,1
+60,Estándar,6174.78,3,3,0,1,1,4.9,21.06,Medio,Sierra,0,0
+67,Estándar,32582.2,4,10,1,0,2,3.1,43.72,Medio,Sierra,0,1
+29,Preferente,14806.06,3,7,1,1,0,1.3,32.5,Medio,Selva,0,1
+57,Preferente,17088.25,1,5,1,1,0,3.2,38.41,Bajo,Sierra,0,0
+52,Estándar,6185.5,3,6,1,0,0,1.7,41.8,Bajo,Selva,0,1
+56,Estándar,12205.16,5,4,0,0,0,1.2,33.19,Medio,Sierra,0,1
+39,Preferente,43334.46,4,3,1,1,0,2.0,40.54,Muy Alto,Sierra,0,0
+63,Estándar,15109.11,5,1,0,0,0,4.3,41.36,Bajo,Costa,0,0
+33,Estándar,0.0,5,8,1,0,1,4.6,28.5,Bajo,Sierra,0,0
+41,Estándar,42569.05,1,8,0,1,0,2.5,53.36,Medio,Costa,0,1
+43,Estándar,30685.32,4,7,1,1,0,3.3,29.36,Muy Alto,Costa,0,1
+41,Estándar,29669.49,1,2,1,1,0,1.1,32.23,Medio,Sierra,0,1
+74,Estándar,21380.61,1,9,1,1,1,2.8,26.4,Medio,Selva,0,1
+38,Preferente,28754.11,1,7,1,0,0,2.3,27.1,Bajo,Sierra,0,0
+57,Preferente,10452.05,1,5,0,1,0,4.3,38.3,Bajo,Costa,0,0
+43,Estándar,9448.52,2,8,1,1,2,1.5,18.94,Medio,Selva,0,1
+54,Premium,0.0,5,4,1,1,0,3.5,46.02,Muy Alto,Sierra,0,0
+21,Preferente,0.0,2,7,1,1,0,1.1,37.71,Alto,Costa,0,1
+72,Premium,14810.03,5,13,1,1,0,4.8,35.11,Muy Alto,Costa,0,0
+49,Estándar,21605.55,3,10,1,1,0,2.2,37.21,Medio,Sierra,0,1
+59,Estándar,27695.49,2,11,1,0,0,1.3,36.23,Muy Alto,Selva,0,1
+64,Estándar,36483.95,1,5,1,1,1,1.9,43.85,Medio,Costa,0,1
+61,Estándar,19057.92,2,5,1,1,0,1.4,20.07,Muy Alto,Sierra,0,1
+66,Estándar,12012.42,2,7,1,1,0,2.5,37.78,Alto,Costa,0,1
+70,Preferente,21067.33,2,5,0,1,0,2.1,39.64,Muy Alto,Costa,0,1
+67,Premium,36302.89,5,6,0,1,0,2.4,32.36,Alto,Costa,0,0
+51,Estándar,41198.22,5,6,1,1,1,2.7,39.39,Medio,Sierra,0,1
+56,Estándar,15644.47,2,5,1,0,1,1.9,15.99,Medio,Costa,1,1
+43,Estándar,32008.92,2,8,1,1,1,2.0,22.14,Alto,Selva,0,1
+55,Estándar,32639.38,5,6,1,1,1,2.3,21.51,Bajo,Costa,1,1
+56,Estándar,21953.7,5,6,1,1,1,2.3,31.05,Bajo,Costa,0,1
+32,Estándar,19930.08,3,12,1,0,1,4.3,25.54,Medio,Sierra,0,0
+41,Estándar,15364.65,5,4,1,0,2,3.6,41.18,Medio,Costa,0,0
+47,Premium,24301.63,2,6,1,0,2,3.9,27.42,Medio,Sierra,0,0
+71,Estándar,38950.0,3,8,1,1,0,2.5,33.03,Muy Alto,Costa,0,1
+57,Estándar,32512.0,1,6,1,1,0,2.7,26.5,Bajo,Sierra,0,1
+50,Estándar,32432.61,4,13,1,1,0,3.1,37.82,Alto,Costa,0,1
+55,Estándar,24443.98,5,7,1,1,0,1.3,39.61,Bajo,Costa,0,1
+56,Estándar,16276.78,1,8,0,0,0,1.8,33.8,Medio,Costa,0,1
+65,Estándar,42351.63,1,5,1,0,0,4.4,44.19,Bajo,Selva,0,0
+52,Preferente,38330.29,4,3,1,1,0,4.8,37.28,Alto,Sierra,0,0
+73,Preferente,12787.29,4,4,1,1,2,1.2,35.87,Bajo,Costa,0,1
+36,Estándar,0.0,4,7,1,1,0,1.5,45.18,Alto,Costa,0,1
+25,Estándar,16746.3,3,6,0,0,1,2.0,29.57,Muy Alto,Selva,0,1
+23,Premium,18813.24,4,7,0,1,2,2.4,32.63,Medio,Selva,0,0
+74,Preferente,31090.63,1,5,1,1,1,4.7,36.81,Muy Alto,Sierra,0,0
+31,Preferente,4843.79,3,7,0,1,1,4.1,33.81,Alto,Costa,0,0
+32,Estándar,0.0,5,5,1,0,0,2.6,25.79,Bajo,Costa,0,1
+36,Estándar,13109.59,2,8,0,0,0,2.4,28.62,Medio,Sierra,1,1
+60,Estándar,24798.38,4,7,1,0,0,1.3,36.63,Muy Alto,Selva,0,1
+35,Estándar,0.0,1,2,1,1,0,2.0,33.98,Alto,Sierra,1,1
+72,Preferente,43707.17,2,7,1,1,1,4.1,32.27,Medio,Sierra,0,0
+73,Estándar,7475.11,2,7,0,0,1,2.1,48.57,Alto,Costa,0,1
+24,Estándar,12920.72,5,7,1,1,0,4.5,22.81,Medio,Costa,0,0
+65,Preferente,13264.36,5,8,1,1,0,2.5,41.58,Medio,Selva,0,0
+38,Premium,6569.65,4,9,1,0,1,1.7,47.09,Medio,Costa,0,0
+28,Preferente,13454.21,1,5,1,1,0,4.1,32.36,Bajo,Costa,0,0
+65,Estándar,35915.21,5,8,1,0,0,4.7,41.7,Medio,Costa,0,0
+74,Estándar,0.0,2,2,0,1,1,1.3,24.38,Bajo,Costa,1,1
+54,Preferente,4336.03,3,6,0,1,0,4.9,39.94,Alto,Selva,0,0
+31,Preferente,37259.44,3,5,1,0,0,4.2,31.39,Alto,Selva,0,0
+69,Estándar,14966.19,3,4,1,0,1,1.6,48.22,Bajo,Costa,0,1
+45,Estándar,17161.61,2,2,1,0,1,1.9,29.8,Medio,Sierra,0,1
+35,Estándar,2371.68,3,2,1,1,1,4.5,30.77,Medio,Costa,0,0
+38,Estándar,0.0,2,5,1,1,0,3.7,45.42,Medio,Costa,0,1
+37,Preferente,10823.42,2,8,1,1,2,1.5,41.97,Muy Alto,Costa,1,1
+69,Estándar,6590.75,2,11,0,0,0,2.5,26.86,Muy Alto,Sierra,0,1
+65,Estándar,24046.78,3,5,0,1,3,2.5,27.76,Bajo,Costa,1,1
+47,Estándar,0.0,4,2,1,1,2,1.9,30.22,Bajo,Costa,0,1
+22,Estándar,37944.11,4,8,1,1,1,3.0,38.91,Medio,Costa,0,1
+59,Estándar,23359.78,3,6,0,1,2,4.2,41.02,Muy Alto,Costa,0,1
+68,Premium,4762.0,2,3,0,1,0,3.2,34.42,Bajo,Costa,0,0
+46,Estándar,15946.56,1,9,0,1,0,2.2,39.53,Medio,Sierra,1,1
+20,Preferente,24275.2,3,7,1,1,0,4.8,38.23,Medio,Selva,0,0
+57,Estándar,13733.04,5,6,1,1,0,2.4,32.78,Medio,Sierra,0,1
+63,Estándar,22441.78,4,4,1,1,0,3.6,35.64,Bajo,Costa,0,1
+49,Estándar,23986.34,3,3,1,1,2,4.8,40.18,Bajo,Selva,0,0
+63,Estándar,16027.94,3,5,1,1,0,3.1,43.91,Medio,Costa,0,1
+49,Estándar,30666.45,2,6,1,0,0,2.5,42.9,Medio,Costa,0,1
+62,Preferente,23244.43,5,9,1,1,1,2.4,23.42,Bajo,Selva,0,0
+19,Estándar,20568.13,3,6,1,0,0,3.0,19.99,Medio,Costa,0,1
+41,Estándar,6963.52,5,7,1,1,0,4.1,29.61,Alto,Sierra,0,0
+72,Estándar,31662.14,3,8,1,0,0,4.3,38.89,Bajo,Costa,0,0
+56,Preferente,12555.32,3,6,1,1,0,3.7,44.8,Bajo,Sierra,0,0
+74,Estándar,19965.34,2,4,1,1,0,4.6,43.38,Medio,Costa,0,0
+66,Estándar,8828.16,3,7,1,0,0,4.5,41.33,Bajo,Costa,0,0
+39,Estándar,1522.13,4,8,0,0,0,4.4,43.97,Alto,Sierra,0,0
+48,Estándar,13925.63,3,5,0,0,0,4.6,31.37,Alto,Costa,0,0
+57,Estándar,31645.2,1,7,1,1,0,3.9,49.85,Alto,Sierra,0,0
+33,Estándar,59521.79,1,4,1,1,1,3.1,35.95,Medio,Sierra,0,1
+53,Preferente,16066.21,4,3,1,1,1,5.0,37.26,Muy Alto,Sierra,0,0
+30,Estándar,21016.04,1,7,1,1,0,2.2,27.25,Bajo,Costa,1,1
+42,Preferente,15890.13,1,2,0,1,0,4.5,38.96,Medio,Costa,0,0
+36,Preferente,27599.8,3,5,1,1,0,3.0,44.43,Medio,Costa,0,0
+56,Estándar,38276.93,3,6,1,0,1,3.5,27.95,Alto,Costa,0,0
+71,Preferente,32286.02,5,13,1,0,0,4.2,37.7,Medio,Costa,0,0
+33,Estándar,25980.92,3,7,1,0,0,1.5,49.08,Alto,Selva,0,1
+33,Estándar,3591.35,3,4,1,0,0,1.8,29.45,Medio,Sierra,0,1
+41,Estándar,18715.86,5,4,1,0,2,3.2,34.38,Muy Alto,Sierra,0,0
+34,Preferente,33237.97,2,9,0,0,0,3.5,57.61,Alto,Costa,0,0
+70,Estándar,9410.11,2,9,1,1,2,1.3,32.88,Alto,Sierra,0,1
+22,Premium,4469.33,3,8,1,1,0,5.0,35.96,Medio,Selva,0,0
+64,Premium,46754.26,5,3,1,1,0,4.0,43.1,Medio,Costa,1,0
+36,Preferente,30722.77,2,4,1,0,0,2.7,30.58,Bajo,Costa,0,0
+55,Estándar,10700.04,3,6,1,1,2,4.5,27.16,Alto,Costa,0,0
+61,Estándar,0.0,3,7,1,1,0,3.3,35.75,Medio,Costa,0,1
+46,Premium,50428.69,5,5,1,1,0,4.6,20.1,Medio,Sierra,0,0
+57,Estándar,27415.93,3,5,1,0,0,3.2,34.91,Alto,Sierra,0,0
+62,Estándar,0.0,4,4,0,0,3,1.8,34.94,Alto,Costa,0,1
+73,Estándar,15264.15,1,7,1,0,0,5.0,40.86,Bajo,Costa,0,0
+43,Preferente,0.0,5,9,0,1,0,2.3,27.94,Medio,Costa,0,0
+21,Estándar,1593.94,4,5,0,0,1,2.4,36.1,Medio,Sierra,1,1
+64,Estándar,16397.24,2,5,0,1,2,2.2,25.27,Bajo,Costa,1,1
+69,Preferente,22823.68,2,9,1,1,0,3.5,27.72,Medio,Sierra,0,0
+31,Premium,29813.88,4,5,1,1,0,4.5,28.89,Alto,Sierra,0,0
+20,Estándar,23522.36,4,4,1,0,0,1.0,32.8,Bajo,Costa,0,1
+68,Estándar,20912.43,4,6,1,1,2,2.0,29.81,Medio,Selva,0,1
+24,Estándar,9284.07,3,5,0,0,1,1.4,37.66,Muy Alto,Sierra,0,1
+74,Estándar,0.0,2,8,1,1,0,2.9,19.83,Medio,Sierra,0,1
+45,Estándar,12008.58,3,8,1,0,0,3.8,35.77,Muy Alto,Costa,0,0
+63,Estándar,48232.98,4,5,1,1,1,5.0,39.58,Bajo,Sierra,0,0
+53,Estándar,9196.9,1,4,1,0,0,4.7,23.48,Medio,Sierra,0,0
+20,Preferente,21886.88,4,2,1,1,0,3.8,37.54,Alto,Selva,0,0
+27,Preferente,18819.75,4,10,1,1,0,1.3,41.25,Muy Alto,Costa,1,1
+64,Preferente,35793.14,5,4,0,0,1,3.3,33.21,Medio,Costa,0,0
+49,Estándar,15640.98,2,6,0,1,0,1.2,29.47,Medio,Costa,1,1
+44,Preferente,33134.3,2,4,0,0,1,3.5,32.68,Medio,Sierra,1,0
+37,Estándar,20413.08,5,9,1,1,0,1.2,43.79,Bajo,Sierra,0,1
+68,Premium,45900.6,2,4,1,0,0,1.9,31.27,Bajo,Costa,0,0
+42,Estándar,29444.74,2,10,1,1,1,1.1,49.66,Alto,Costa,0,1
+22,Preferente,49032.97,2,5,0,1,1,1.6,30.74,Bajo,Sierra,0,0
+35,Preferente,6895.2,3,7,0,1,0,4.3,33.47,Medio,Sierra,0,0
+22,Preferente,15716.62,2,8,1,1,0,3.0,35.61,Medio,Costa,0,0
+23,Preferente,1565.64,4,7,1,1,0,2.6,40.88,Medio,Selva,0,0
+62,Preferente,13689.82,4,4,1,1,1,4.9,38.8,Alto,Sierra,0,0
+29,Estándar,1749.68,4,3,1,1,0,4.2,35.5,Bajo,Costa,1,0
+41,Preferente,15599.63,3,3,1,1,1,3.2,21.13,Medio,Costa,0,0
+50,Estándar,34098.21,2,5,1,0,1,3.2,25.8,Muy Alto,Selva,0,0
+73,Estándar,12969.63,5,7,1,0,0,1.4,42.91,Bajo,Sierra,1,1
+71,Estándar,5721.01,5,2,0,1,1,2.8,25.88,Alto,Sierra,0,1
+54,Preferente,6929.78,3,7,1,0,2,2.4,31.2,Bajo,Sierra,0,0
+62,Preferente,11805.12,1,5,1,0,1,4.2,32.33,Alto,Costa,0,0
+70,Preferente,19456.99,3,3,1,1,0,2.5,39.5,Medio,Costa,0,0
+74,Estándar,4337.48,1,4,0,1,0,4.6,36.57,Alto,Costa,0,0
+59,Preferente,18700.18,3,7,1,0,0,4.0,35.5,Medio,Costa,0,0
+20,Estándar,20050.93,2,6,1,1,0,2.6,35.88,Medio,Costa,0,1
+53,Estándar,0.0,1,8,0,1,1,1.8,46.35,Muy Alto,Sierra,0,1
+67,Estándar,22898.36,2,5,1,0,0,4.5,29.68,Bajo,Costa,1,0
+18,Preferente,19214.83,1,7,1,1,1,3.2,40.37,Medio,Costa,0,0
+24,Estándar,24250.08,4,7,1,1,1,2.3,21.24,Medio,Costa,0,1
+24,Estándar,0.0,4,0,1,0,0,2.8,39.56,Medio,Costa,0,1
+62,Preferente,0.0,1,5,1,1,0,3.6,39.27,Medio,Sierra,0,0
+35,Estándar,17703.95,3,8,1,0,0,1.7,49.8,Muy Alto,Sierra,0,1
+50,Estándar,33902.43,1,2,0,1,1,3.6,38.58,Medio,Sierra,0,1
+40,Estándar,43933.2,5,5,1,1,1,4.5,26.05,Alto,Costa,0,0
+60,Estándar,17803.82,4,4,1,1,0,3.9,22.44,Bajo,Selva,0,0
+58,Estándar,29902.63,2,7,0,0,2,2.6,40.96,Alto,Costa,0,1
+70,Premium,0.0,4,11,1,0,0,2.3,28.31,Bajo,Costa,0,0
+36,Preferente,18889.05,4,5,1,1,1,1.0,26.98,Bajo,Costa,1,1
+25,Premium,26538.81,2,3,1,1,0,2.4,31.51,Bajo,Selva,0,0
+53,Preferente,10739.17,3,6,1,1,0,2.1,31.43,Alto,Costa,1,0
+65,Estándar,11869.53,1,5,1,1,0,4.5,33.5,Medio,Costa,0,1
+68,Preferente,11377.4,4,6,0,0,1,1.9,30.24,Alto,Sierra,1,0
+30,Estándar,709.76,5,5,1,1,0,5.0,45.73,Bajo,Selva,0,0
+25,Estándar,15744.86,4,8,0,1,0,4.4,34.02,Medio,Costa,0,0
+37,Estándar,29390.86,3,7,1,0,0,4.9,52.29,Alto,Costa,0,0
+48,Estándar,0.0,4,8,1,0,0,4.5,35.05,Bajo,Costa,0,0
+58,Preferente,14567.12,2,6,1,1,1,3.8,28.95,Muy Alto,Costa,0,0
+23,Preferente,38153.06,5,4,0,0,0,2.2,34.43,Bajo,Costa,0,0
+29,Preferente,5514.16,5,4,0,1,0,1.5,32.51,Bajo,Costa,0,0
+63,Estándar,0.0,4,5,1,1,0,3.8,40.9,Medio,Costa,0,1
+49,Preferente,6134.13,1,3,0,1,0,3.5,21.87,Muy Alto,Costa,0,0
+51,Estándar,19707.4,3,1,0,0,1,3.9,26.79,Medio,Costa,1,0
+74,Estándar,32177.78,2,5,1,1,1,2.6,29.47,Bajo,Costa,1,1
+69,Estándar,28219.67,3,7,1,0,2,1.0,38.34,Medio,Costa,0,1
+38,Preferente,9444.21,4,8,1,1,0,1.7,31.04,Alto,Selva,0,0
+36,Premium,0.0,4,2,1,0,0,4.2,43.82,Medio,Costa,0,0
+31,Estándar,38796.81,3,6,1,0,1,2.7,37.23,Bajo,Costa,0,1
+21,Preferente,36174.94,3,4,0,0,0,3.0,24.23,Muy Alto,Sierra,0,0
+70,Estándar,29961.75,1,8,0,1,1,3.8,28.04,Muy Alto,Sierra,0,1
+55,Estándar,22759.22,3,7,1,1,0,1.8,25.22,Bajo,Selva,0,1
+68,Preferente,15628.63,2,4,0,1,0,1.6,37.7,Alto,Selva,0,0
+35,Preferente,36578.76,2,4,1,1,0,4.8,27.5,Medio,Costa,0,0
+71,Estándar,16819.52,1,5,0,1,1,2.4,34.98,Muy Alto,Selva,0,1
+34,Estándar,33833.89,1,8,1,1,2,3.3,40.29,Muy Alto,Sierra,0,1
+34,Preferente,24604.38,4,7,1,1,0,3.2,31.53,Medio,Costa,0,0
+28,Premium,7989.97,1,4,1,1,0,2.1,28.86,Medio,Sierra,0,0
+54,Preferente,9536.04,2,3,1,1,1,1.9,44.26,Medio,Costa,0,1
+49,Estándar,32601.56,3,2,1,0,0,3.4,39.28,Bajo,Costa,0,0
+70,Preferente,19293.66,4,5,0,1,2,4.9,34.65,Medio,Costa,0,0
+21,Premium,22322.23,5,3,1,0,0,1.9,49.86,Bajo,Selva,1,0
+29,Preferente,10098.12,1,10,1,0,0,4.6,23.06,Bajo,Sierra,0,0
+62,Premium,25296.74,1,10,1,0,1,5.0,35.16,Medio,Selva,0,0
+44,Estándar,32469.68,4,5,1,1,1,2.4,44.16,Alto,Sierra,1,1
+57,Preferente,41579.42,1,5,1,0,0,1.4,33.04,Medio,Selva,1,0
+25,Preferente,30865.88,4,3,1,0,0,2.2,52.27,Medio,Sierra,1,0
+26,Estándar,0.0,4,5,0,0,0,1.3,36.98,Medio,Costa,0,1
+56,Estándar,11636.36,1,4,0,0,1,3.8,41.49,Bajo,Costa,0,0
+74,Estándar,12281.79,1,3,1,1,0,3.3,29.14,Muy Alto,Costa,0,1
+30,Estándar,9115.24,2,5,1,1,1,3.4,39.62,Medio,Sierra,0,1
+27,Preferente,35952.6,4,10,0,1,1,4.4,32.43,Bajo,Sierra,0,0
+62,Preferente,13263.45,1,7,0,1,0,2.6,14.26,Medio,Selva,0,0
+66,Estándar,12914.86,1,6,0,0,0,3.7,35.82,Alto,Sierra,0,0
+72,Estándar,0.0,1,5,1,1,0,1.1,40.34,Bajo,Sierra,1,1
+28,Preferente,31014.35,5,5,0,1,2,1.7,33.9,Alto,Selva,0,0
+25,Estándar,46789.47,1,5,1,1,1,2.7,33.58,Bajo,Selva,0,1
+42,Preferente,28006.33,2,7,1,1,0,3.4,40.24,Bajo,Costa,0,0
+70,Preferente,15003.5,1,10,0,1,1,2.3,49.25,Bajo,Selva,0,1
+47,Preferente,10002.88,5,4,0,1,1,2.1,22.2,Bajo,Sierra,0,0
+62,Premium,28021.41,2,4,1,0,0,2.2,43.88,Muy Alto,Sierra,0,0
+55,Estándar,30375.21,4,7,0,1,1,1.8,31.13,Alto,Sierra,0,1
+49,Estándar,58566.84,4,8,0,0,2,4.2,38.18,Medio,Costa,0,0
+28,Preferente,11869.74,5,10,1,1,0,1.7,41.76,Medio,Sierra,0,1
+28,Estándar,31930.03,5,4,1,0,0,4.8,32.26,Bajo,Costa,0,0
+48,Estándar,25451.14,4,6,1,1,1,3.3,42.65,Muy Alto,Sierra,0,1
+37,Preferente,0.0,2,6,1,1,2,2.4,36.7,Medio,Sierra,1,1
+46,Premium,22529.55,3,4,1,1,0,1.3,27.05,Bajo,Selva,1,0
+29,Preferente,23160.89,2,1,1,0,0,4.2,37.08,Medio,Costa,0,0
+26,Preferente,42304.12,1,8,0,0,2,1.5,43.75,Bajo,Costa,0,0
+47,Estándar,21925.86,5,6,1,1,0,3.6,40.06,Bajo,Costa,0,0
+50,Preferente,35491.78,5,6,0,0,1,5.0,28.05,Alto,Costa,0,0
+57,Estándar,12766.83,2,5,0,0,0,4.3,15.84,Alto,Costa,0,0
+32,Preferente,36572.18,2,2,1,1,0,4.0,24.48,Bajo,Costa,0,0
+19,Estándar,0.0,2,8,0,1,0,3.6,30.26,Medio,Costa,0,1
+20,Estándar,45104.79,4,4,1,1,0,3.4,47.55,Medio,Sierra,1,0
+72,Preferente,0.0,5,6,1,1,0,2.4,26.3,Medio,Costa,0,0
+42,Preferente,39790.96,4,7,1,1,2,2.1,23.93,Alto,Sierra,0,0
+55,Preferente,25308.69,5,9,0,0,1,4.3,30.08,Bajo,Selva,0,0
+35,Estándar,10788.74,1,5,1,0,2,4.1,29.98,Alto,Costa,0,0
+58,Preferente,0.0,3,4,1,1,2,2.1,53.03,Bajo,Sierra,0,1
+26,Estándar,4199.78,2,8,1,0,0,2.7,30.08,Alto,Sierra,0,1
+32,Estándar,6980.25,1,4,0,1,0,3.7,35.38,Muy Alto,Costa,0,1
+28,Estándar,21558.07,1,4,0,0,0,4.3,50.84,Medio,Sierra,0,0
+32,Estándar,34588.83,1,6,0,0,1,3.7,32.72,Bajo,Costa,0,0
+37,Preferente,21476.89,4,5,1,0,0,4.9,33.25,Alto,Sierra,0,0
+51,Premium,0.0,5,4,1,0,1,4.9,34.5,Medio,Sierra,0,0
+74,Estándar,29302.72,5,3,1,1,1,4.6,35.94,Muy Alto,Sierra,0,0
+44,Preferente,33633.27,3,5,1,1,0,2.5,38.18,Bajo,Costa,0,0
+68,Estándar,10269.16,1,6,1,0,3,2.0,21.44,Bajo,Selva,0,1
+20,Premium,24939.14,5,10,1,1,1,3.1,45.06,Bajo,Costa,0,0
+33,Preferente,36737.37,4,5,1,1,1,4.0,33.81,Medio,Sierra,0,0
+51,Preferente,14411.75,2,7,0,1,1,3.3,34.68,Medio,Sierra,0,0
+70,Estándar,16206.21,3,2,1,1,0,3.4,29.44,Medio,Sierra,0,1
+38,Estándar,37009.04,2,5,1,0,0,3.4,18.5,Alto,Costa,0,0
+23,Estándar,43787.24,5,3,1,1,1,1.2,40.52,Medio,Selva,0,1
+30,Estándar,43665.24,2,10,1,1,1,1.7,44.72,Alto,Sierra,0,1
+39,Estándar,2509.63,5,4,1,1,2,4.1,26.06,Alto,Costa,0,0
+47,Premium,9303.87,4,1,1,1,0,4.3,37.92,Bajo,Costa,0,0
+44,Estándar,534.19,5,9,1,0,0,2.6,30.78,Medio,Costa,0,1
+30,Estándar,10007.53,2,8,1,1,2,2.1,22.71,Medio,Selva,0,1
+55,Preferente,134.09,5,7,0,1,2,4.5,34.71,Medio,Selva,0,0
+64,Preferente,12097.45,3,7,0,1,0,1.9,27.97,Medio,Selva,1,0
+33,Preferente,5967.04,1,4,1,0,0,2.5,35.3,Alto,Costa,1,0
+24,Preferente,0.0,2,4,0,1,0,2.1,36.99,Bajo,Costa,0,0
+33,Estándar,32726.37,1,4,0,1,0,1.8,38.72,Alto,Sierra,0,1
+44,Estándar,423.57,2,8,1,0,0,2.1,22.25,Muy Alto,Selva,1,1
+23,Premium,26802.04,2,9,1,0,0,1.7,40.02,Alto,Sierra,0,0
+34,Preferente,30662.9,5,6,1,1,1,1.7,40.3,Muy Alto,Sierra,0,0
+72,Estándar,26871.4,2,6,1,1,0,3.9,36.06,Bajo,Sierra,1,1
+66,Premium,38289.73,1,6,1,1,1,1.9,28.16,Bajo,Costa,0,0
+43,Premium,1390.09,3,7,0,1,1,2.8,38.0,Medio,Costa,0,0
+37,Estándar,21867.41,3,5,1,0,1,3.7,47.51,Alto,Sierra,0,0
+28,Estándar,35603.73,2,5,0,0,0,4.6,36.25,Medio,Sierra,0,0
+41,Estándar,19857.15,3,9,1,1,1,2.0,32.27,Bajo,Costa,0,1
+56,Estándar,13232.36,5,5,0,1,0,2.7,46.37,Medio,Selva,0,1
+60,Estándar,41650.69,5,5,0,0,0,2.8,32.4,Bajo,Sierra,0,0
+37,Estándar,27968.87,5,7,1,0,1,1.7,34.26,Medio,Selva,0,1
+65,Premium,8429.43,1,6,1,1,2,4.1,50.42,Muy Alto,Costa,0,0
+50,Estándar,28210.28,2,3,1,0,0,2.1,25.43,Bajo,Costa,1,1
+37,Estándar,24375.25,5,6,1,0,0,3.7,39.07,Bajo,Costa,0,0
+38,Estándar,8050.91,2,9,1,1,0,4.8,20.14,Medio,Selva,0,0
+18,Estándar,0.0,3,5,0,1,0,4.8,18.17,Medio,Selva,0,0
+74,Estándar,5108.01,2,8,1,1,0,1.3,36.92,Bajo,Costa,0,1
+61,Preferente,21373.43,3,4,1,1,0,3.4,30.16,Bajo,Costa,0,0
+63,Estándar,6231.77,5,6,1,0,0,4.7,36.32,Alto,Costa,0,0
+69,Estándar,38481.46,5,10,1,1,2,4.7,41.9,Alto,Sierra,0,0
+67,Estándar,41109.87,4,9,1,0,0,1.3,43.67,Bajo,Selva,0,1
+53,Estándar,20449.18,5,10,0,0,1,3.6,38.31,Medio,Costa,0,0
+38,Preferente,11012.56,4,6,1,1,1,3.9,38.37,Bajo,Selva,0,0
+28,Estándar,7852.54,5,7,1,1,0,3.8,42.29,Bajo,Costa,0,1
+26,Estándar,27214.34,3,6,0,1,0,4.9,29.35,Bajo,Selva,0,0
+26,Preferente,39193.53,4,9,1,1,0,1.1,45.03,Medio,Sierra,1,1
+20,Premium,18608.3,3,12,0,1,1,3.8,24.95,Muy Alto,Sierra,0,0
+47,Preferente,29521.31,5,6,1,0,0,4.9,21.58,Alto,Costa,0,0
+68,Preferente,19894.61,5,8,1,1,2,1.3,36.57,Muy Alto,Sierra,1,1
+39,Estándar,16676.43,1,1,1,1,0,1.4,46.05,Alto,Costa,0,1
+59,Estándar,7608.39,4,12,1,1,0,1.4,42.44,Muy Alto,Sierra,0,1
+52,Preferente,11073.25,3,8,1,1,1,1.5,22.21,Medio,Costa,0,1
+59,Estándar,50166.56,5,10,1,0,0,4.3,38.85,Alto,Sierra,0,0
+18,Estándar,32736.11,3,2,1,1,1,4.6,23.84,Medio,Costa,0,0
+62,Estándar,37236.25,4,5,1,0,0,4.9,51.25,Alto,Sierra,0,0
+21,Estándar,40127.18,3,4,0,0,0,3.1,30.54,Medio,Costa,0,0
+50,Estándar,6111.38,5,6,0,1,0,1.7,31.49,Alto,Costa,0,1
+60,Estándar,15775.95,1,8,1,1,0,2.0,36.3,Medio,Costa,0,1
+69,Preferente,7891.76,3,10,0,1,0,1.5,34.15,Muy Alto,Costa,0,1
+22,Preferente,0.0,1,7,0,0,0,1.2,36.36,Medio,Costa,0,1
+28,Estándar,0.0,4,8,1,1,0,4.6,50.1,Medio,Costa,0,0
+31,Premium,1498.5,1,9,1,0,0,4.3,39.52,Alto,Costa,0,0
+74,Estándar,39808.9,5,6,0,0,0,3.3,39.15,Alto,Sierra,0,0
+22,Estándar,10924.88,1,4,1,0,0,1.9,46.45,Bajo,Costa,1,1
+61,Estándar,1128.5,2,6,1,1,1,2.4,23.03,Medio,Costa,0,1
+64,Estándar,23726.12,1,3,0,1,0,1.2,27.29,Bajo,Sierra,0,1
+19,Preferente,13348.26,2,10,1,1,2,1.0,47.88,Medio,Costa,1,1
+27,Estándar,26292.04,5,4,1,1,0,3.0,46.97,Medio,Costa,0,1
+72,Estándar,4102.81,5,2,1,1,0,2.7,46.95,Bajo,Costa,0,1
+18,Estándar,32807.4,1,5,1,1,1,2.7,25.69,Bajo,Costa,0,1
+52,Estándar,37274.52,2,8,0,1,0,3.2,35.51,Muy Alto,Selva,0,1
+29,Estándar,5316.7,4,5,0,1,1,4.8,30.6,Bajo,Sierra,0,0
+64,Preferente,19777.7,1,6,0,1,1,4.4,27.92,Medio,Costa,0,0
+46,Premium,26735.44,4,3,1,1,0,1.2,30.82,Medio,Selva,0,0
+34,Estándar,33044.33,1,4,1,1,0,4.0,35.95,Medio,Sierra,0,0
+41,Estándar,19594.89,5,7,1,0,0,4.6,42.12,Bajo,Costa,0,0
+51,Estándar,31762.6,3,5,0,0,0,3.6,37.53,Alto,Sierra,0,0
+40,Estándar,26979.37,2,6,1,0,0,3.9,30.97,Medio,Costa,0,0
+20,Estándar,37559.88,2,5,1,1,0,4.0,48.71,Bajo,Costa,0,0
+70,Estándar,42685.67,1,4,1,0,1,4.2,29.69,Alto,Sierra,0,0
+38,Estándar,28221.4,2,7,1,1,0,2.8,31.12,Muy Alto,Sierra,0,1
+32,Estándar,28950.7,5,11,1,1,1,2.3,23.66,Alto,Sierra,0,1
+57,Estándar,33731.5,4,4,1,0,0,4.8,40.07,Alto,Sierra,0,0
+72,Preferente,11124.76,5,9,0,1,1,1.9,27.8,Medio,Costa,0,1
+58,Estándar,18711.52,3,11,0,0,0,4.7,51.19,Bajo,Costa,0,0
+23,Estándar,25630.44,5,4,0,0,1,3.1,28.32,Medio,Costa,0,0
+19,Preferente,28499.38,3,8,1,1,0,3.5,35.37,Muy Alto,Selva,0,0
+26,Preferente,20536.41,4,10,1,1,1,3.7,49.37,Medio,Costa,0,0
+36,Preferente,13527.86,5,8,1,0,1,4.9,37.77,Alto,Costa,0,0
+59,Estándar,5733.4,1,3,1,1,1,4.4,24.96,Bajo,Sierra,0,1
+58,Preferente,15625.54,2,8,0,1,0,1.2,39.28,Alto,Costa,0,1
+63,Estándar,11778.2,1,5,1,1,0,4.2,42.93,Alto,Costa,0,0
+65,Estándar,24921.03,2,7,0,1,1,3.7,31.42,Bajo,Costa,0,1
+44,Estándar,0.0,1,5,1,1,0,4.8,27.39,Bajo,Sierra,0,0
+45,Estándar,9509.98,5,7,1,0,0,4.7,39.96,Bajo,Costa,0,0
+74,Estándar,23243.85,3,11,0,1,1,4.3,34.07,Muy Alto,Sierra,0,1
+73,Preferente,20523.56,5,4,1,0,0,5.0,28.74,Bajo,Sierra,0,0
+24,Preferente,0.0,5,4,0,0,1,3.1,46.31,Alto,Costa,0,0
+68,Preferente,46849.97,2,5,1,0,0,4.4,37.85,Medio,Costa,0,0
+35,Estándar,9939.83,5,4,1,0,0,2.9,38.63,Medio,Costa,0,0
+45,Preferente,12735.37,4,7,0,1,2,3.1,34.66,Medio,Costa,0,0
+36,Preferente,6506.18,3,8,1,1,1,1.0,39.86,Medio,Selva,0,1
+48,Preferente,5786.56,5,2,1,0,0,2.1,24.84,Alto,Costa,0,0
+56,Preferente,37455.41,1,3,0,0,0,2.0,38.7,Alto,Costa,0,0
+21,Estándar,25673.8,3,3,1,0,1,3.2,43.9,Alto,Costa,0,0
+18,Estándar,23057.23,5,4,0,0,0,3.7,22.72,Alto,Costa,0,0
+42,Estándar,925.93,1,9,1,0,1,3.7,30.31,Bajo,Costa,0,1
+66,Estándar,11212.7,4,4,1,0,0,4.3,29.48,Alto,Costa,0,0
+68,Premium,35613.76,3,4,0,1,1,3.7,33.04,Medio,Costa,0,0
+34,Estándar,30181.46,4,8,1,1,2,3.4,32.96,Alto,Costa,0,1
+58,Estándar,18508.98,3,6,1,0,0,3.8,46.03,Medio,Selva,0,0
+36,Estándar,15981.81,1,4,0,1,0,4.0,24.97,Medio,Costa,0,1
+59,Estándar,19853.12,3,5,1,0,0,4.4,25.83,Alto,Selva,0,0
+61,Preferente,14413.62,4,5,0,1,0,3.8,37.28,Alto,Costa,0,0
+41,Preferente,26556.36,4,2,1,0,0,3.2,36.97,Medio,Costa,0,0
+42,Estándar,42722.82,3,5,0,0,2,2.4,38.27,Medio,Sierra,0,1
+31,Estándar,8582.47,2,8,0,0,0,4.8,26.24,Bajo,Selva,0,0
+60,Estándar,29604.68,5,3,1,0,0,4.3,39.46,Bajo,Sierra,0,0
+60,Preferente,17189.0,2,4,1,1,0,4.0,27.77,Bajo,Costa,0,0
+36,Estándar,18702.32,4,5,1,0,0,4.8,51.44,Bajo,Costa,0,0
+30,Estándar,23651.52,4,8,0,1,0,2.7,41.26,Alto,Selva,0,1
+71,Preferente,48773.36,5,6,1,1,1,1.5,11.09,Bajo,Costa,0,0
+42,Preferente,6513.04,2,6,1,1,0,3.2,30.69,Alto,Costa,0,0
+28,Estándar,66416.67,5,7,1,0,3,4.3,29.4,Medio,Sierra,0,0
+34,Preferente,7014.76,5,8,1,1,1,3.9,36.76,Medio,Costa,0,0
+59,Preferente,0.0,5,7,0,0,1,4.0,33.29,Bajo,Selva,0,0
+29,Estándar,35557.25,2,4,0,1,1,2.9,30.64,Medio,Selva,0,1
+22,Estándar,9027.85,5,5,1,1,0,4.6,36.92,Medio,Costa,0,0
+34,Estándar,30280.99,1,6,0,1,0,1.1,31.15,Alto,Sierra,0,1
+67,Estándar,14872.1,4,6,0,1,0,3.4,38.23,Alto,Sierra,0,1
+66,Estándar,34529.41,4,3,1,1,1,2.7,31.83,Medio,Sierra,0,1
+41,Preferente,10124.09,1,5,0,1,0,1.7,45.8,Muy Alto,Costa,0,1
+41,Estándar,4079.06,5,5,1,1,2,2.2,24.57,Medio,Costa,0,1
+64,Estándar,48743.97,5,2,1,1,0,1.1,42.75,Muy Alto,Sierra,0,1
+74,Preferente,40738.59,4,8,1,1,1,3.9,18.7,Medio,Sierra,1,0
+22,Preferente,6716.16,4,3,1,1,0,3.7,29.38,Medio,Selva,1,0
+51,Estándar,0.0,3,3,1,1,0,4.0,34.98,Medio,Selva,0,0
+18,Estándar,14249.07,1,4,1,0,0,4.7,33.14,Alto,Selva,0,0
+29,Estándar,17358.76,4,8,1,1,0,2.9,51.01,Medio,Sierra,1,1
+60,Preferente,7900.84,4,3,0,1,0,3.7,45.2,Alto,Costa,0,0
+45,Estándar,34843.9,5,4,1,0,1,2.9,26.55,Bajo,Sierra,0,0
+74,Preferente,20471.46,1,4,0,0,1,3.1,39.19,Medio,Sierra,0,0
+55,Premium,26131.18,1,7,1,0,0,2.6,44.94,Alto,Selva,0,0
+57,Estándar,6842.14,3,6,1,1,1,4.7,38.47,Muy Alto,Costa,0,1
+29,Estándar,14144.37,3,7,1,1,0,3.6,27.04,Medio,Costa,0,1
+69,Estándar,18076.21,2,7,1,1,0,1.6,43.68,Medio,Selva,0,1
+20,Estándar,18417.83,3,3,0,0,0,2.7,45.65,Muy Alto,Costa,0,1
+65,Premium,7287.44,4,4,1,0,0,1.8,28.52,Medio,Costa,0,0
+53,Estándar,21973.62,4,8,0,0,0,4.3,38.76,Medio,Sierra,0,0
+73,Estándar,17082.53,3,3,1,1,0,3.6,35.02,Medio,Selva,0,1
+63,Preferente,51064.36,3,5,1,1,1,2.6,31.18,Alto,Costa,1,0
+73,Estándar,29248.83,5,5,0,1,3,2.0,21.25,Medio,Costa,0,1
+61,Estándar,53773.39,1,6,0,0,0,1.8,38.05,Alto,Costa,0,1
+34,Estándar,0.0,1,6,1,0,1,1.4,38.11,Bajo,Costa,1,1
+56,Preferente,26435.06,3,4,1,0,1,1.7,22.38,Medio,Costa,0,0
+47,Estándar,557.79,1,2,1,1,0,1.8,32.47,Bajo,Costa,1,1
+57,Preferente,4247.32,1,13,1,0,0,4.7,52.36,Bajo,Selva,0,0
+50,Premium,11042.68,4,4,1,1,0,3.7,31.09,Bajo,Sierra,0,0
+55,Estándar,12537.63,5,8,0,1,0,4.4,39.84,Bajo,Costa,0,0
+70,Estándar,0.0,5,8,0,0,1,4.2,37.26,Bajo,Sierra,0,0
+71,Estándar,32749.96,4,7,0,0,0,1.6,52.48,Alto,Costa,0,1
+43,Preferente,17532.01,5,5,0,1,0,3.9,18.33,Medio,Costa,0,0
+33,Estándar,37612.2,1,6,0,1,0,4.1,36.7,Muy Alto,Costa,0,1
+71,Estándar,41681.64,3,3,1,0,0,3.0,31.89,Medio,Selva,0,0
+59,Estándar,0.0,2,3,0,0,0,1.7,27.07,Alto,Sierra,1,1
+32,Preferente,39960.51,1,10,1,1,0,4.2,46.91,Medio,Costa,0,0
+29,Estándar,28878.63,2,5,1,1,1,3.7,25.25,Bajo,Costa,0,1
+58,Estándar,26427.96,4,7,1,1,0,1.0,37.63,Medio,Sierra,1,1
+47,Estándar,6295.31,3,6,0,1,0,2.7,31.94,Alto,Costa,1,1
+47,Preferente,59381.26,5,7,1,1,0,4.6,38.3,Bajo,Sierra,0,0
+48,Preferente,0.0,1,3,1,1,3,1.1,32.68,Alto,Sierra,1,1
+20,Premium,21698.66,5,8,1,0,0,3.9,34.17,Medio,Selva,0,0
+62,Estándar,31288.56,5,6,1,0,2,1.9,37.51,Medio,Costa,0,1
+66,Estándar,13733.06,5,4,1,1,0,2.2,25.01,Medio,Sierra,0,1
+49,Estándar,0.0,1,7,1,1,1,4.0,38.27,Alto,Costa,0,1
+29,Preferente,0.0,2,4,0,1,0,3.3,45.09,Medio,Sierra,0,0
+21,Estándar,29215.74,4,4,1,0,0,1.7,48.51,Bajo,Sierra,0,1
+65,Estándar,23867.85,3,7,1,0,0,2.1,36.88,Alto,Selva,1,1
+52,Estándar,1175.22,4,3,1,1,1,3.6,20.58,Alto,Costa,0,1
+28,Premium,39411.55,5,8,0,0,0,4.1,58.61,Bajo,Costa,0,0
+74,Estándar,15050.12,4,5,0,1,0,2.3,33.81,Medio,Sierra,0,1
+21,Estándar,33403.74,4,7,1,0,0,1.9,23.83,Medio,Costa,0,1
+73,Estándar,5637.85,2,4,1,1,0,1.5,43.9,Muy Alto,Selva,0,1
+20,Estándar,17450.64,3,11,0,0,1,4.5,47.4,Bajo,Costa,0,0
+36,Estándar,20250.95,4,3,1,1,1,1.0,19.54,Medio,Sierra,0,1
+28,Estándar,18466.94,2,5,1,1,0,3.6,30.77,Muy Alto,Selva,1,1
+69,Estándar,17735.89,2,5,1,0,0,3.5,16.88,Bajo,Sierra,1,0
+65,Preferente,7644.3,1,6,1,0,0,3.1,31.02,Medio,Costa,0,0
+68,Preferente,0.0,5,7,1,1,1,3.5,36.89,Bajo,Costa,0,0
+48,Preferente,31125.21,4,3,1,1,0,2.4,42.24,Bajo,Selva,0,0
+24,Estándar,2981.93,4,3,0,1,0,4.4,32.86,Medio,Costa,0,0
+21,Estándar,45178.75,1,7,0,0,0,4.2,42.65,Alto,Costa,0,0
+56,Estándar,3006.39,4,3,0,1,0,3.1,30.1,Alto,Costa,0,1
+70,Estándar,12445.36,4,11,0,0,0,2.2,32.81,Bajo,Sierra,0,1
+35,Estándar,17037.03,4,12,1,0,0,1.0,31.21,Alto,Costa,0,1
+22,Estándar,4878.26,2,4,1,1,1,2.1,54.36,Alto,Sierra,1,1
+21,Estándar,306.15,2,3,1,1,1,1.9,28.64,Medio,Selva,1,1
+46,Estándar,13850.38,5,9,0,1,0,1.8,38.85,Medio,Costa,0,1
+57,Estándar,56953.51,5,8,1,1,0,1.3,51.63,Medio,Sierra,0,1
+67,Estándar,24169.48,1,4,0,1,1,1.4,30.56,Alto,Sierra,0,1
+22,Premium,25522.88,2,5,1,1,0,2.1,24.43,Alto,Costa,0,0
+37,Estándar,6096.3,3,2,1,1,0,2.1,32.45,Alto,Sierra,0,1
+30,Estándar,12993.96,2,9,0,1,0,1.4,30.68,Medio,Selva,0,1
+59,Estándar,17294.28,4,6,1,0,0,1.4,39.12,Medio,Costa,0,1
+71,Preferente,12815.21,3,8,1,1,0,4.4,28.99,Medio,Costa,0,0
+23,Premium,5680.97,2,9,1,1,0,1.3,38.78,Medio,Sierra,0,1
+67,Preferente,36732.49,4,2,1,1,0,3.7,36.84,Medio,Sierra,0,0
+43,Preferente,19539.88,3,4,1,1,0,2.6,31.54,Bajo,Sierra,0,0
+57,Premium,1737.26,4,5,0,1,0,2.7,28.51,Medio,Costa,0,0
+68,Estándar,0.0,1,5,0,1,0,3.7,31.0,Bajo,Costa,0,1
+30,Preferente,36357.4,4,9,0,1,1,1.2,39.8,Medio,Selva,0,1
+34,Premium,28262.0,2,8,1,1,0,3.9,35.38,Medio,Sierra,0,0
+46,Estándar,134.21,4,4,0,1,1,2.7,42.54,Medio,Sierra,0,1
+44,Estándar,1318.33,2,7,1,1,1,4.1,41.76,Alto,Costa,0,1
+25,Preferente,34712.76,5,6,0,0,0,2.1,45.19,Medio,Costa,0,0
+59,Estándar,33401.47,1,5,1,1,1,1.8,47.69,Medio,Sierra,0,1
+22,Estándar,32576.67,4,1,1,0,0,3.9,28.36,Bajo,Selva,0,0
+24,Estándar,40135.09,1,3,0,1,0,4.6,22.39,Medio,Costa,0,0
+58,Estándar,41224.68,3,8,1,1,1,1.7,33.37,Medio,Costa,0,1
+66,Estándar,15882.72,1,9,1,0,0,1.1,35.47,Medio,Selva,1,1
+18,Estándar,22141.08,4,8,1,1,0,4.8,31.22,Medio,Selva,0,0
+41,Preferente,0.0,5,6,1,1,0,3.2,51.58,Bajo,Costa,0,0
+23,Estándar,8146.06,3,2,1,1,0,2.9,31.3,Medio,Costa,0,1
+73,Preferente,2195.88,5,7,1,1,0,4.0,26.1,Bajo,Selva,0,0
+49,Estándar,35306.07,1,7,1,1,0,3.6,46.83,Bajo,Sierra,0,1
+26,Estándar,34379.04,5,7,1,1,1,3.1,35.72,Medio,Costa,0,1
+47,Estándar,8923.82,5,7,1,1,0,1.5,39.81,Medio,Selva,0,1
+51,Estándar,10085.3,2,12,1,1,0,4.4,40.35,Medio,Sierra,0,1
+52,Estándar,54878.91,4,9,1,1,0,2.2,33.24,Medio,Sierra,0,1
+64,Estándar,0.0,1,9,1,0,0,3.7,38.4,Medio,Selva,0,1
+42,Estándar,45608.47,5,4,1,1,0,1.0,42.57,Muy Alto,Costa,1,1
+35,Premium,9297.63,5,3,1,0,1,4.4,39.59,Medio,Costa,0,0
+56,Estándar,11963.59,1,5,0,1,2,2.0,30.59,Medio,Sierra,1,1
+70,Preferente,23553.7,5,6,1,1,0,1.4,40.05,Medio,Costa,1,1
+34,Estándar,0.0,1,9,1,1,0,1.3,35.18,Alto,Sierra,0,1
+68,Preferente,17513.27,3,1,1,0,1,2.6,32.68,Medio,Costa,0,0
+53,Preferente,0.0,4,7,1,1,1,1.2,37.53,Alto,Selva,1,1
+55,Estándar,6552.91,4,6,1,0,1,3.0,37.42,Bajo,Costa,0,1
+59,Preferente,1930.85,5,8,0,1,0,2.7,46.75,Bajo,Costa,0,0
+69,Preferente,26586.46,3,6,0,1,1,2.7,44.38,Medio,Sierra,1,0
+28,Preferente,21791.56,4,3,1,1,2,3.3,41.29,Medio,Selva,0,0
+42,Preferente,26340.47,2,9,1,1,0,2.8,37.99,Medio,Selva,0,0
+71,Estándar,15222.64,5,5,1,0,0,2.8,26.09,Bajo,Costa,0,1
+28,Preferente,29809.08,1,3,0,1,2,4.7,35.99,Medio,Sierra,0,0
+74,Estándar,24877.62,2,5,0,1,0,1.8,28.18,Bajo,Selva,1,1
+41,Estándar,30811.0,2,3,1,1,1,3.4,37.36,Alto,Costa,0,1
+68,Preferente,30491.25,3,9,1,1,0,1.2,39.5,Medio,Selva,0,1
+55,Preferente,25840.7,4,2,0,1,0,3.1,45.47,Medio,Sierra,0,0
+20,Premium,21535.78,4,6,0,1,0,4.1,24.15,Bajo,Sierra,0,0
+53,Preferente,42596.69,1,5,0,0,1,1.3,37.04,Medio,Sierra,0,0
+60,Estándar,23137.72,3,3,1,1,2,2.6,29.57,Bajo,Costa,0,1
+47,Preferente,37237.18,3,5,1,1,0,2.0,32.32,Medio,Selva,1,0
+68,Estándar,10121.69,2,6,1,1,1,1.7,25.68,Muy Alto,Costa,0,1
+59,Estándar,23367.17,4,8,0,0,0,2.1,35.12,Muy Alto,Sierra,0,1
+60,Estándar,42914.78,4,7,1,1,0,4.6,25.8,Muy Alto,Sierra,0,0
+30,Estándar,9016.43,1,5,1,1,0,4.8,23.89,Medio,Sierra,0,0
+21,Preferente,0.0,1,5,1,0,1,1.0,37.83,Alto,Sierra,0,1
+49,Preferente,39076.63,5,7,1,0,0,2.3,40.0,Bajo,Sierra,0,0
+74,Estándar,0.0,5,7,1,0,1,2.4,17.51,Alto,Costa,0,1
+58,Estándar,14342.06,5,10,1,1,0,3.5,41.84,Medio,Costa,0,1
+63,Preferente,0.0,2,7,0,1,0,4.3,39.18,Bajo,Costa,0,0
+52,Estándar,9340.77,2,7,1,0,1,4.0,27.1,Bajo,Selva,0,0
+22,Preferente,29953.78,2,7,1,0,0,4.6,33.03,Medio,Costa,0,0
+32,Estándar,22825.25,4,13,0,1,0,1.7,33.71,Bajo,Costa,0,1
+71,Estándar,27130.76,5,4,0,1,0,3.4,30.71,Medio,Sierra,0,1
+31,Estándar,38650.38,1,5,1,0,0,3.7,23.31,Bajo,Costa,0,0
+47,Preferente,15934.12,3,7,1,1,0,2.4,35.79,Bajo,Costa,0,0
+57,Estándar,28968.09,3,3,1,1,0,2.9,34.11,Medio,Sierra,0,1
+70,Premium,14522.08,3,6,1,1,0,3.0,42.86,Bajo,Costa,0,0
+20,Estándar,36883.57,4,7,1,0,0,2.3,34.27,Medio,Costa,0,1
+56,Estándar,16139.08,5,3,1,1,0,3.8,22.31,Alto,Selva,0,0
+24,Estándar,1652.8,4,5,1,1,1,4.2,29.11,Bajo,Costa,1,1
+45,Estándar,30030.69,4,9,1,1,0,2.2,25.57,Muy Alto,Costa,1,1
+53,Estándar,19603.72,2,8,1,1,1,3.9,43.78,Bajo,Selva,0,1
+25,Estándar,17843.1,2,7,0,1,1,1.1,27.15,Bajo,Costa,0,1
+24,Estándar,24549.77,1,6,0,0,0,2.0,48.17,Bajo,Costa,1,1
+63,Preferente,37982.27,2,8,1,1,1,4.8,44.18,Alto,Selva,0,0
+52,Estándar,34366.28,4,7,1,1,0,1.7,27.63,Medio,Costa,0,1
+60,Estándar,34846.98,2,7,1,1,0,3.5,23.71,Medio,Costa,0,1
+33,Estándar,17692.82,3,6,1,0,0,4.1,31.71,Alto,Costa,0,0
+62,Preferente,26369.41,2,10,1,1,0,4.7,30.76,Bajo,Costa,0,0
+25,Preferente,14663.29,1,6,0,1,0,1.4,35.6,Medio,Costa,1,1
+66,Estándar,0.0,1,7,1,0,0,1.9,25.75,Bajo,Selva,1,1
+53,Estándar,33068.97,1,7,1,1,1,1.9,27.39,Medio,Sierra,0,1
+74,Estándar,20555.41,5,10,1,1,0,3.1,27.64,Bajo,Sierra,0,1
+19,Estándar,44160.74,2,2,1,0,0,4.8,26.48,Alto,Costa,0,0
+69,Estándar,36592.11,5,4,0,1,0,4.1,39.35,Medio,Costa,0,0
+65,Estándar,30046.32,4,9,1,1,1,1.2,37.06,Alto,Costa,1,1
+50,Premium,31965.13,1,7,0,1,1,4.1,45.84,Medio,Costa,0,0
+60,Premium,24458.82,5,4,1,0,1,2.6,46.46,Muy Alto,Costa,1,0
+28,Premium,17202.89,1,7,1,0,0,3.3,43.39,Bajo,Sierra,0,0
+57,Preferente,5241.42,1,8,1,0,0,2.8,24.19,Medio,Costa,0,0
+20,Preferente,18285.46,4,9,1,1,2,2.0,36.36,Medio,Sierra,0,1
+21,Estándar,26981.21,2,5,0,1,0,2.6,43.2,Bajo,Costa,0,1
+41,Estándar,20219.88,3,9,1,0,1,3.7,43.61,Medio,Selva,0,0
+41,Estándar,7924.15,4,3,1,1,0,3.0,11.11,Bajo,Selva,0,1
+70,Estándar,36908.06,1,4,1,0,0,4.6,28.63,Medio,Sierra,0,0
+24,Preferente,24051.89,5,8,0,1,1,4.6,15.1,Bajo,Sierra,0,0
+18,Preferente,43696.06,2,8,0,1,0,3.6,33.38,Bajo,Selva,0,0
+51,Preferente,0.0,3,5,0,0,1,4.9,37.97,Medio,Costa,0,0
+55,Preferente,28100.85,1,5,1,1,0,1.1,35.61,Bajo,Sierra,0,1
+66,Estándar,0.0,3,3,1,0,0,2.5,19.57,Medio,Costa,0,1
+29,Estándar,11116.03,3,1,1,1,1,4.2,40.19,Bajo,Sierra,0,0
+69,Estándar,22628.46,4,5,1,1,0,4.1,50.6,Medio,Selva,0,0
+35,Estándar,33998.87,4,4,1,0,0,3.3,45.12,Medio,Costa,0,0
+55,Estándar,12006.44,5,4,1,0,1,3.3,30.17,Alto,Costa,0,0
+64,Preferente,28737.04,3,10,1,0,1,4.6,47.82,Bajo,Costa,0,0
+42,Preferente,10126.56,1,10,1,0,1,2.9,50.73,Alto,Costa,0,0
+66,Estándar,24176.83,1,5,1,1,0,2.5,36.34,Alto,Costa,0,1
+52,Preferente,34970.36,4,6,0,1,0,3.7,42.04,Bajo,Costa,0,0
+18,Estándar,21584.56,2,7,1,1,0,3.2,38.87,Medio,Costa,0,1
+39,Estándar,41745.73,5,7,1,1,0,3.3,44.61,Alto,Sierra,0,0
+61,Preferente,12930.18,1,7,0,1,1,3.7,49.95,Bajo,Sierra,0,0
+46,Preferente,3764.74,2,8,1,1,0,1.4,35.71,Muy Alto,Costa,1,1
+68,Preferente,0.0,1,3,1,0,0,1.5,51.66,Bajo,Sierra,0,0
+38,Estándar,28124.99,3,4,1,1,0,4.8,38.58,Bajo,Sierra,0,0
+31,Estándar,30358.64,3,9,0,1,0,5.0,43.87,Alto,Selva,0,0
+61,Estándar,16800.47,1,8,0,0,0,1.0,30.29,Bajo,Costa,1,1
+27,Estándar,45604.6,2,10,1,1,0,2.8,21.85,Alto,Costa,0,1
+37,Estándar,17258.06,4,5,0,1,0,4.0,37.54,Alto,Costa,0,0
+69,Estándar,23197.72,2,6,0,1,0,2.9,55.55,Medio,Costa,0,1
+69,Estándar,14416.75,3,4,0,1,0,1.7,32.46,Medio,Selva,0,1
+46,Estándar,23739.27,5,5,1,1,1,1.7,28.29,Bajo,Costa,1,1
+47,Estándar,22382.04,1,8,1,0,0,3.3,43.86,Bajo,Sierra,1,1
+50,Estándar,16478.11,2,0,1,0,0,4.7,34.62,Alto,Sierra,0,0
+56,Premium,18457.38,5,7,1,1,0,4.1,34.19,Medio,Sierra,0,0
+58,Preferente,26039.83,5,4,1,1,0,4.1,31.64,Bajo,Costa,0,0
+32,Estándar,0.0,3,7,1,1,0,4.6,33.63,Muy Alto,Costa,0,1
+72,Preferente,56997.54,4,5,1,1,0,3.0,39.84,Bajo,Costa,0,0
+49,Estándar,0.0,1,4,1,1,1,2.8,43.22,Bajo,Sierra,0,1
+36,Estándar,54881.67,3,4,1,0,0,2.7,33.01,Medio,Costa,0,0
+27,Preferente,20847.21,1,8,1,1,0,2.4,39.46,Alto,Costa,0,0
+73,Estándar,16161.44,5,9,1,1,1,4.9,41.77,Alto,Costa,0,0
+49,Estándar,19298.45,3,10,1,1,0,2.8,45.41,Medio,Sierra,0,1
+66,Estándar,0.0,3,8,0,1,0,2.4,20.42,Medio,Costa,1,1
+70,Estándar,17054.47,3,5,1,1,0,2.2,38.85,Bajo,Selva,1,1
+20,Estándar,17230.64,3,9,1,0,0,1.1,31.38,Alto,Costa,0,1
+38,Estándar,26599.87,3,7,1,1,0,4.2,31.96,Medio,Sierra,0,0
+61,Preferente,39076.04,5,7,1,0,1,3.8,45.0,Medio,Sierra,0,0
+67,Estándar,11918.79,2,2,1,0,0,2.5,37.5,Alto,Selva,0,0
+61,Estándar,40473.78,4,3,0,1,0,3.7,34.4,Medio,Costa,0,0
+29,Premium,0.0,2,9,1,0,0,4.5,47.49,Medio,Selva,0,0
+57,Preferente,7819.67,5,7,1,0,1,2.5,47.06,Medio,Costa,0,0
+52,Premium,0.0,5,4,0,1,0,3.8,42.51,Medio,Selva,0,0
+65,Preferente,28845.41,5,9,1,1,0,4.2,35.6,Medio,Selva,0,0
+58,Estándar,24379.16,5,5,1,1,0,2.6,31.69,Muy Alto,Sierra,0,1
+35,Estándar,11697.76,2,5,0,0,1,4.1,41.71,Bajo,Selva,1,0
+29,Estándar,32114.29,2,7,1,0,0,4.5,55.12,Alto,Sierra,0,0
+33,Premium,0.0,3,7,1,1,0,4.0,40.49,Medio,Costa,0,0
+53,Estándar,34661.46,3,5,1,0,1,2.4,38.57,Bajo,Costa,0,1
+67,Estándar,32177.93,1,5,1,1,0,3.9,31.46,Bajo,Sierra,1,1
+43,Preferente,0.0,1,8,1,0,1,3.4,47.89,Bajo,Costa,0,0
+35,Estándar,7099.19,4,9,1,1,0,3.0,28.66,Muy Alto,Sierra,0,1
+54,Estándar,51819.54,3,7,1,0,0,1.7,30.71,Medio,Sierra,0,1
+61,Estándar,0.0,2,4,1,0,0,4.5,40.62,Bajo,Costa,0,0
+53,Estándar,4888.41,3,4,1,0,1,2.7,36.92,Muy Alto,Sierra,0,1
+25,Estándar,0.0,3,7,1,1,0,2.4,53.5,Medio,Costa,0,1
+72,Preferente,13412.85,3,5,1,0,3,2.1,49.91,Medio,Selva,1,0
+71,Preferente,11779.52,4,3,1,1,0,4.3,38.88,Medio,Sierra,0,0
+32,Premium,19806.35,3,7,0,1,0,1.4,29.26,Bajo,Sierra,0,0
+49,Preferente,26579.32,3,13,0,1,0,2.9,28.15,Bajo,Sierra,0,0
+27,Estándar,89.07,1,3,1,0,0,4.6,31.01,Medio,Selva,0,0
+66,Estándar,21489.4,4,5,1,0,1,1.2,46.46,Bajo,Sierra,0,1
+65,Estándar,32456.17,3,7,1,1,1,1.1,34.78,Muy Alto,Costa,0,1
+51,Preferente,25777.09,1,11,0,0,0,3.8,37.7,Bajo,Selva,0,0
+34,Estándar,12889.26,1,11,0,0,0,1.1,49.14,Bajo,Selva,0,1
+64,Estándar,43147.59,2,8,1,1,0,3.8,28.4,Muy Alto,Selva,0,1
+29,Preferente,13090.23,2,5,0,1,1,4.1,37.75,Alto,Sierra,0,0
+64,Estándar,8616.53,1,3,1,0,0,4.6,37.37,Medio,Costa,0,0
+57,Estándar,18758.72,3,6,1,1,0,3.9,43.83,Bajo,Selva,0,0
+59,Estándar,7485.32,5,2,1,1,1,3.1,34.55,Medio,Costa,0,1
+71,Preferente,40011.2,4,3,1,1,0,3.8,25.19,Medio,Sierra,0,0
+34,Premium,31121.14,5,3,1,1,1,4.7,29.33,Medio,Selva,0,0
+45,Estándar,18110.42,2,4,0,1,0,2.3,41.09,Bajo,Costa,0,1
+18,Preferente,5874.73,5,3,1,1,2,2.5,35.6,Medio,Costa,0,0
+39,Preferente,1562.01,3,4,1,1,0,3.4,40.56,Alto,Costa,1,0
+21,Estándar,18213.45,3,7,1,1,2,4.7,40.63,Alto,Costa,0,0
+25,Preferente,26430.17,2,4,1,1,2,3.2,39.32,Muy Alto,Costa,0,0
+45,Preferente,22987.99,4,10,1,1,1,1.8,40.92,Medio,Costa,1,1
+52,Estándar,20136.56,4,5,0,1,0,1.8,32.97,Bajo,Costa,0,1
+37,Preferente,23620.04,1,10,1,1,1,2.5,34.67,Medio,Selva,0,0
+24,Estándar,17496.46,2,4,1,1,0,3.5,25.9,Medio,Selva,0,1
+36,Estándar,4655.46,5,13,1,1,0,2.7,26.32,Bajo,Sierra,0,1
+27,Estándar,37368.31,5,4,1,1,0,4.3,12.89,Alto,Costa,0,0
+18,Estándar,2526.96,2,4,1,1,0,2.4,47.3,Medio,Selva,0,1
+26,Estándar,10186.83,4,6,0,1,0,1.3,40.79,Medio,Selva,0,1
