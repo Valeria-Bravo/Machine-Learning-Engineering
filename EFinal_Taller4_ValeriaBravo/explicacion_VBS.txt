@@ -1,0 +1,34 @@
+Este proyecto tiene como objetivo predecir si un cliente sera aprobado (1) o no aprobado (0) para un credito. Se uso un dataset con variables financieras, digitales y de riesgo. A continuacion explico lo que se hizo en cada parte:
+
+1. Entrenamiento del modelo
+
+Se uso Python para entrenar un modelo de clasificacion, se limpiaron los datos, se separaron variables, se entreno y se guardo el modelo final como archivo .pki,y tambien se calculo el score del modelo y se guardaron logs.
+
+2. API con FastAPI
+
+Se creo una API donde se puede enviar la informacion de un cliente en formato JSON, la API carga el modelo entrenado y devuelve: la probabilidad de aprobación, la prediccion base del modelo, la prediccion ajustada con threshold
+
+La API funciona como intermediario entre el modelo y cualquier aplicacion.
+
+3. Interfaz con Streamlit
+
+Se creo una interfaz sencilla donde el usuario ingresa los datos del cliente.
+Streamlit envia esos datos a la API y muestra: la probabilidad, si el cliente seria aprobado o no, mensajes de riesgo segun el resultado
+
+Esta interfaz sirve para probar el modelo sin usar codigo.
+
+4. Interpretabilidad con SHAP
+
+Se uso SHAP para explicar como el modelo toma decisiones, el grafico SHAP muestra que variables influyen mas, se guardaron las imagenes de explicacion en MLflow.
+
+5. Resultados del proyecto
+
+- La API devuelve predicciones correctas, Streamlit muestra el riesgo del cliente en tiempo real.
+- SHAP muestra que las variables mas importantes fueron: edad, ingresos, uso digital, zona de riesgo y contactos cargados.
+- Se guardaron capturas de la API, Streamlit y SHAP como evidencia, se entrego el script y todo el flujo completo funcionando.
+
+6. Conclusiones
+
+- El sistema permite probar clientes de manera rapida.
+- El modelo puede integrarse a un sistema real porque ya esta expuesto por API.
+- La explicacion con SHAP hace que el modelo sea entendible para el negocio.
